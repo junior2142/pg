@@ -1,16 +1,16 @@
 {
-    "name": "c4838ad2769eabf34f16b7880eacbdc8",
-    "theme": "syntax",
-    "version": "2.0.5253",
-    "description": "เล่นบาคาร่า【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เล่นบาคาร่า【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5253",
+  "description": "เล่นบาคาร่า【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
