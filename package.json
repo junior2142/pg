@@ -1,14 +1,14 @@
 {
-  "name": "ไพ่สร้างบ้าน【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.6051",
-  "description": "ไพ่สร้างบ้าน【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-  "keywords": [
-    "ไพ่สร้างบ้าน"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "160b580dbc99275f0959fcb2624c6e91",
+    "theme": "syntax",
+    "version": "2.0.6051",
+    "description": "ไพ่เล่นอะไรได้บ้าง 2 คน【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+    "keywords": [
+        "ไพ่เล่นอะไรได้บ้าง 2 คน"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
