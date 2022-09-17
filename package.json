@@ -1,16 +1,16 @@
 {
-    "name": "7e51fceeb0cdda7da0ef14199a16ea93",
-    "theme": "syntax",
-    "version": "2.0.5777",
-    "description": "ติดต่อ AMBBET【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ แจ็กพอตแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ติดต่อ AMBBET【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.5777",
+  "description": "ติดต่อ AMBBET【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ แจ็กพอตแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
