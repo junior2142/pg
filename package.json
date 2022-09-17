@@ -1,16 +1,16 @@
 {
-  "name": "ฝากถอน ไม่มี ขั้น ต่ํา อัตโนมัติ【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.5702",
-  "description": "ฝากถอน ไม่มี ขั้น ต่ํา อัตโนมัติ【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-  "keywords": [
-    "เครดิตฟรี",
-    "สล็อต",
-    "สล็อตออนไลน์"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "b3dc97bd942eab3f3f153d358005f510",
+    "theme": "syntax",
+    "version": "2.0.5702",
+    "description": "โหลดแอพพนันออนไลน์【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
+    "keywords": [
+        "เครดิตฟรี",
+        "สล็อต",
+        "สล็อตออนไลน์"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
