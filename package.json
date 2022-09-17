@@ -1,16 +1,16 @@
 {
-    "name": "6ccb7865e587b290f9b15549aeaa82c6",
-    "theme": "syntax",
-    "version": "2.0.5661",
-    "description": "ราคา ต่อ รอง โต๊ะบอล【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ราคา ต่อ รอง โต๊ะบอล【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5661",
+  "description": "ราคา ต่อ รอง โต๊ะบอล【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
