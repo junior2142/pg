@@ -1,16 +1,16 @@
 {
-    "name": "ada8e8e543f0d518ac5a3605dd749570",
-    "theme": "syntax",
-    "version": "2.0.5239",
-    "description": "Allbet Casino【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "Allbet Casino【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5239",
+  "description": "Allbet Casino【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
