@@ -1,16 +1,16 @@
 {
-    "name": "dd225d9e0ab415bcba7f1021cb637a32",
-    "theme": "syntax",
-    "version": "2.0.5565",
-    "description": "วิเคราะห์บอลวันพรุ่งนี้【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "วิเคราะห์บอลวันพรุ่งนี้【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5565",
+  "description": "วิเคราะห์บอลวันพรุ่งนี้【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
