@@ -1,16 +1,16 @@
 {
-    "name": "889ebf1e52934020b103b68a98221da9",
-    "theme": "syntax",
-    "version": "2.0.5821",
-    "description": "เกมไพ่ป๊อกเด้ง pc【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมไพ่ป๊อกเด้ง pc【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5821",
+  "description": "เกมไพ่ป๊อกเด้ง pc【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
