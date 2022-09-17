@@ -1,16 +1,16 @@
 {
-    "name": "1c35e05dd88c4c690525365a67d79e60",
-    "theme": "syntax",
-    "version": "2.0.6010",
-    "description": "เกมไพ่ poker pc【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เกมไพ่ poker pc",
-        "download game governor of poker pc",
-        "download game governor of poker pc gratis"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมไพ่ poker pc【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6010",
+  "description": "เกมไพ่ poker pc【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เกมไพ่ poker pc",
+    "download game governor of poker pc",
+    "download game governor of poker pc gratis"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
