@@ -1,16 +1,16 @@
 {
-    "name": "9630e589a69b9f0fff1d3f13f85fd1a3",
-    "theme": "syntax",
-    "version": "2.0.5813",
-    "description": "วิธี หาเงิน จากการพนัน Pantip【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "วิธี หาเงิน จากการพนัน Pantip【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5813",
+  "description": "วิธี หาเงิน จากการพนัน Pantip【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
