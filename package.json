@@ -1,16 +1,16 @@
 {
-    "name": "1f012722e23b73c0717ef541eb8547be",
-    "theme": "syntax",
-    "version": "2.0.5547",
-    "description": "4 เซียน ล้มโต๊ะ【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "4 เซียน ล้มโต๊ะ【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5547",
+  "description": "4 เซียน ล้มโต๊ะ【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
