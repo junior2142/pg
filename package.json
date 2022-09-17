@@ -1,16 +1,16 @@
 {
-    "name": "8af7de2bdfa485b1d150f06ca5761e3e",
-    "theme": "syntax",
-    "version": "2.0.5539",
-    "description": "ทีเด็ดบอลเต็ง 3 คู่【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ทีเด็ดบอลเต็ง 3 คู่【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5539",
+  "description": "ทีเด็ดบอลเต็ง 3 คู่【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
