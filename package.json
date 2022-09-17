@@ -1,14 +1,14 @@
 {
-    "name": "836b771c9971ad0e8d8533f099e84248",
-    "theme": "syntax",
-    "version": "2.0.6050",
-    "description": "ไพ่สร้างบ้าน【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "ไพ่สร้างบ้าน"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไพ่สร้างบ้าน【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6050",
+  "description": "ไพ่สร้างบ้าน【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "ไพ่สร้างบ้าน"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
