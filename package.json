@@ -1,17 +1,17 @@
 {
-    "name": "bd920a49f992765f3a94d8f9585d9301",
-    "theme": "syntax",
-    "version": "2.0.6054",
-    "description": "โหลดเกมส์ไพ่ solitaire【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "โหลดเกมส์ไพ่ solitaire",
-        "ดาวน์โหลด เกมส์ ไพ่ solitaire",
-        "โหลด เกมส์ ไพ่ spider solitaire",
-        "โหลด เกมส์ เรียง ไพ่ solitaire"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "โหลดเกมส์ไพ่ solitaire【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6054",
+  "description": "โหลดเกมส์ไพ่ solitaire【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "โหลดเกมส์ไพ่ solitaire",
+    "ดาวน์โหลด เกมส์ ไพ่ solitaire",
+    "โหลด เกมส์ ไพ่ spider solitaire",
+    "โหลด เกมส์ เรียง ไพ่ solitaire"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
