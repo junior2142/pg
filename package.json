@@ -1,16 +1,16 @@
 {
-    "name": "796d2f174f186cac823cc502f0d4bbe3",
-    "theme": "syntax",
-    "version": "2.0.5459",
-    "description": "ส เต็ ป แตก คือ【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ส เต็ ป แตก คือ【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5459",
+  "description": "ส เต็ ป แตก คือ【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
