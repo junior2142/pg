@@ -1,14 +1,14 @@
 {
-  "name": "เกมไพ่ดัมมี่ออนไลน์【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.6029",
-  "description": "เกมไพ่ดัมมี่ออนไลน์【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-  "keywords": [
-    "เกมไพ่ดัมมี่ออนไลน์"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "19f808b51be1ffbfbc075fbc7f6090a8",
+    "theme": "syntax",
+    "version": "2.0.6029",
+    "description": "ดาวน์โหลด dummy ดั ม มี เกมไพ่สุดฮิต【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+    "keywords": [
+        "ดาวน์โหลด dummy ดั ม มี เกมไพ่สุดฮิต"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
