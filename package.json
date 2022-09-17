@@ -1,16 +1,16 @@
 {
-    "name": "0082c69c1fe233d6340544bba70d0af1",
-    "theme": "syntax",
-    "version": "2.0.5211",
-    "description": "Lucabet168【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "Lucabet168【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5211",
+  "description": "Lucabet168【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
