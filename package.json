@@ -1,17 +1,14 @@
 {
-  "name": "โหลดเกมส์ไพ่ solitaire【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
-  "theme": "syntax",
-  "version": "2.0.6055",
-  "description": "โหลดเกมส์ไพ่ solitaire【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-  "keywords": [
-    "โหลดเกมส์ไพ่ solitaire",
-    "ดาวน์โหลด เกมส์ ไพ่ solitaire",
-    "โหลด เกมส์ ไพ่ spider solitaire",
-    "โหลด เกมส์ เรียง ไพ่ solitaire"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "add15b20ada8f783e45e06ba009a3e63",
+    "theme": "syntax",
+    "version": "2.0.6055",
+    "description": "เกม ไพ่ Solitaire ออนไลน์【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
+    "keywords": [
+        "เกม ไพ่ solitaire ออนไลน์"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
