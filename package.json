@@ -1,14 +1,14 @@
 {
-    "name": "e6bc3621543ea537fcaf17fa10b11c46",
-    "theme": "syntax",
-    "version": "2.0.6090",
-    "description": "ดัมมี่ รัมมี่【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "ดัมมี่ รัมมี่"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ดัมมี่ รัมมี่【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6090",
+  "description": "ดัมมี่ รัมมี่【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "ดัมมี่ รัมมี่"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
