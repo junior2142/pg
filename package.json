@@ -1,14 +1,14 @@
 {
-  "name": "เกมส์เรียงไพ่ในคอม【เว็บ สล็อต ออนไลน์ อันดับ 1】",
-  "theme": "syntax",
-  "version": "2.0.6027",
-  "description": "เกมส์เรียงไพ่ในคอม【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-  "keywords": [
-    "เกมเรียงไพ่ในคอม"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "06ad51fd182f94d71df06e5b31be5214",
+    "theme": "syntax",
+    "version": "2.0.6027",
+    "description": "เกมไพ่ดัมมี่ออนไลน์【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+    "keywords": [
+        "เกมไพ่ดัมมี่ออนไลน์"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
