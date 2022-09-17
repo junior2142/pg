@@ -1,16 +1,16 @@
 {
-    "name": "694df04ee467624e6bf031121586b95a",
-    "theme": "syntax",
-    "version": "2.0.5717",
-    "description": "เว็บพนันออนไลน์ 789【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บพนันออนไลน์ 789【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5717",
+  "description": "เว็บพนันออนไลน์ 789【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
