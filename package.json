@@ -1,16 +1,16 @@
 {
-    "name": "c5e7069d132f78ac4bd35fcd95a55b51",
-    "theme": "syntax",
-    "version": "2.0.5415",
-    "description": "โปรโมชั่นบอลสเต็ป【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "โปรโมชั่นบอลสเต็ป【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5415",
+  "description": "โปรโมชั่นบอลสเต็ป【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
