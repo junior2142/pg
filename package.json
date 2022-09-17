@@ -1,14 +1,14 @@
 {
-    "name": "add15b20ada8f783e45e06ba009a3e63",
-    "theme": "syntax",
-    "version": "2.0.6056",
-    "description": "เกม ไพ่ Solitaire ออนไลน์【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เกม ไพ่ solitaire ออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกม ไพ่ Solitaire ออนไลน์【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6056",
+  "description": "เกม ไพ่ Solitaire ออนไลน์【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เกม ไพ่ solitaire ออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
