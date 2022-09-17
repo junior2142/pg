@@ -1,15 +1,15 @@
 {
-    "name": "120e54f7a6f978b4f12052d56bad7257",
-    "theme": "syntax",
-    "version": "2.0.6068",
-    "description": "เกมไพ่ solitaire ดาวน์โหลด【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "เกมไพ่ solitaire ดาวน์โหลด",
-        "เกมส์ ไพ่ spider solitaire ดาวน์โหลด"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมไพ่ solitaire ดาวน์โหลด【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6068",
+  "description": "เกมไพ่ solitaire ดาวน์โหลด【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "เกมไพ่ solitaire ดาวน์โหลด",
+    "เกมส์ ไพ่ spider solitaire ดาวน์โหลด"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
