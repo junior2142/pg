@@ -1,14 +1,14 @@
 {
-    "name": "a8c9a7234e99fbf1dda33f6aceb0b4fb",
-    "theme": "syntax",
-    "version": "2.0.5962",
-    "description": "สล็อตเว็บใหญ่ที่สุดในโลก【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "สล็อตเว็บใหญ่ที่สุดในโลก"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บใหญ่ที่สุดในโลก【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5962",
+  "description": "สล็อตเว็บใหญ่ที่สุดในโลก【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "สล็อตเว็บใหญ่ที่สุดในโลก"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
