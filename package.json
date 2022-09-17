@@ -1,16 +1,16 @@
 {
-    "name": "400abc48a413768f1f6fcb9d0c9c9924",
-    "theme": "syntax",
-    "version": "2.0.5521",
-    "description": "ผลบอลสด888【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ผลบอลสด888【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5521",
+  "description": "ผลบอลสด888【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
