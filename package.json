@@ -1,14 +1,14 @@
 {
-    "name": "cee07623ca3ddc9887e5af079c643a28",
-    "theme": "syntax",
-    "version": "2.0.5976",
-    "description": "เกมในวงเหล้า pantip【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-    "keywords": [
-        "เกมในวงเหล้า pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมในวงเหล้า pantip【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5976",
+  "description": "เกมในวงเหล้า pantip【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+  "keywords": [
+    "เกมในวงเหล้า pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
