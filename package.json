@@ -1,14 +1,14 @@
 {
-    "name": "605fd5278cef1e8a3b8f4c38ee9c5090",
-    "theme": "syntax",
-    "version": "2.0.6096",
-    "description": "dummy ดัมมี่ เกมไพ่สุดฮิต pc【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "dummy ดัมมี่ เกมไพ่สุดฮิต pc"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "dummy ดัมมี่ เกมไพ่สุดฮิต pc【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6096",
+  "description": "dummy ดัมมี่ เกมไพ่สุดฮิต pc【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "dummy ดัมมี่ เกมไพ่สุดฮิต pc"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
