@@ -1,16 +1,16 @@
 {
-    "name": "4ffd3541a5b91cfb24d3899b8797d3a9",
-    "theme": "syntax",
-    "version": "2.0.5625",
-    "description": "วิธี เล่นบอลให้ได้เงินทุกวัน【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "วิธี เล่นบอลให้ได้เงินทุกวัน【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5625",
+  "description": "วิธี เล่นบอลให้ได้เงินทุกวัน【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
