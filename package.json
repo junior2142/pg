@@ -1,16 +1,16 @@
 {
-    "name": "c93df7ae682c2cd7855dbac27f97ce67",
-    "theme": "syntax",
-    "version": "2.0.5267",
-    "description": "เขียนบอทบาคาร่า【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เขียนบอทบาคาร่า【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5267",
+  "description": "เขียนบอทบาคาร่า【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
