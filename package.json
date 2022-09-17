@@ -1,14 +1,14 @@
 {
-    "name": "2f702126b56ef5d41bc75343b417ff22",
-    "theme": "syntax",
-    "version": "2.0.6112",
-    "description": "ดั ม มี ออนไลน์ เงินจริง สมัคร เว็บไหน【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "ดั ม มี ออนไลน์ เงินจริง สมัคร เว็บไหน"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ดั ม มี ออนไลน์ เงินจริง สมัคร เว็บไหน【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6112",
+  "description": "ดั ม มี ออนไลน์ เงินจริง สมัคร เว็บไหน【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "ดั ม มี ออนไลน์ เงินจริง สมัคร เว็บไหน"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
