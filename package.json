@@ -1,16 +1,16 @@
 {
-    "name": "6fd4fd6864341aa72254a5d6f7319189",
-    "theme": "syntax",
-    "version": "2.0.5815",
-    "description": "แทงบอล ดี ยัง ไง【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "แทงบอล ดี ยัง ไง【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5815",
+  "description": "แทงบอล ดี ยัง ไง【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
