@@ -1,14 +1,14 @@
 {
-    "name": "ce7ccd97d38f5a4370bd24bb088985e7",
-    "theme": "syntax",
-    "version": "2.0.6066",
-    "description": "Solitaire สูตร【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "solitaire สูตร"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "Solitaire สูตร【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6066",
+  "description": "Solitaire สูตร【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "solitaire สูตร"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
