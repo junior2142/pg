@@ -1,14 +1,14 @@
 {
-    "name": "1eda10c278fa3e1add2c3041237297c7",
-    "theme": "syntax",
-    "version": "2.0.5974",
-    "description": "เกมในวงเหล้า ออนไลน์【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เกมในวงเหล้า ออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมในวงเหล้า ออนไลน์【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5974",
+  "description": "เกมในวงเหล้า ออนไลน์【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เกมในวงเหล้า ออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
