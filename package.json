@@ -1,16 +1,16 @@
 {
-    "name": "c65c6e9e9396d309f83e20e0eb4aa01a",
-    "theme": "syntax",
-    "version": "2.0.5639",
-    "description": "เทคนิคการเล่นฟุตบอล 7 คน【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เทคนิคการเล่นฟุตบอล 7 คน【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5639",
+  "description": "เทคนิคการเล่นฟุตบอล 7 คน【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
