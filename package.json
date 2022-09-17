@@ -1,14 +1,14 @@
 {
-    "name": "06ad51fd182f94d71df06e5b31be5214",
-    "theme": "syntax",
-    "version": "2.0.6028",
-    "description": "เกมไพ่ดัมมี่ออนไลน์【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "เกมไพ่ดัมมี่ออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมไพ่ดัมมี่ออนไลน์【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6028",
+  "description": "เกมไพ่ดัมมี่ออนไลน์【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "เกมไพ่ดัมมี่ออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
