@@ -1,16 +1,16 @@
 {
-    "name": "41024c17f218f18bc229ae6e6f8a6596",
-    "theme": "syntax",
-    "version": "2.0.5856",
-    "description": "เกมไพ่ออนไลน์ pc【คูปอง 1ufabet】 ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมไพ่ออนไลน์ pc【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5856",
+  "description": "เกมไพ่ออนไลน์ pc【คูปอง 1ufabet】 ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
