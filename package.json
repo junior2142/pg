@@ -1,14 +1,17 @@
 {
-  "name": "ไพ่เล่นอะไรได้บ้าง 2 คน【เว็บ สล็อต ออนไลน์ อันดับ 1】",
-  "theme": "syntax",
-  "version": "2.0.6053",
-  "description": "ไพ่เล่นอะไรได้บ้าง 2 คน【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-  "keywords": [
-    "ไพ่เล่นอะไรได้บ้าง 2 คน"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "bd920a49f992765f3a94d8f9585d9301",
+    "theme": "syntax",
+    "version": "2.0.6053",
+    "description": "โหลดเกมส์ไพ่ solitaire【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+    "keywords": [
+        "โหลดเกมส์ไพ่ solitaire",
+        "ดาวน์โหลด เกมส์ ไพ่ solitaire",
+        "โหลด เกมส์ ไพ่ spider solitaire",
+        "โหลด เกมส์ เรียง ไพ่ solitaire"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
