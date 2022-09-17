@@ -1,14 +1,14 @@
 {
-    "name": "e3a597d7c6625abc3b9d307e707f0314",
-    "theme": "syntax",
-    "version": "2.0.6044",
-    "description": "เกมไพ่มีอะไรบ้าง【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "เกมไพ่มีอะไรบ้าง"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมไพ่มีอะไรบ้าง【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6044",
+  "description": "เกมไพ่มีอะไรบ้าง【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "เกมไพ่มีอะไรบ้าง"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
