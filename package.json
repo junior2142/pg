@@ -1,16 +1,16 @@
 {
-    "name": "b37cddf2864c0bd4460fea0b32248d12",
-    "theme": "syntax",
-    "version": "2.0.5932",
-    "description": "สล็อตเว็บใหญ่ pg【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บใหญ่ pg【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5932",
+  "description": "สล็อตเว็บใหญ่ pg【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
