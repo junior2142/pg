@@ -1,14 +1,12 @@
 {
-  "name": "เกม เล่นไพ่ กับเพื่อน【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.5979",
-  "description": "เกม เล่นไพ่ กับเพื่อน【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-  "keywords": [
-    "เกม เล่นไพ่ กับเพื่อน"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "7049a3b24ce82f762d9fba5c9d28abf0",
+    "theme": "syntax",
+    "version": "2.0.5979",
+    "description": "เกม เล่น ไพ่ บน รถไฟ【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
+    "keywords": [],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
