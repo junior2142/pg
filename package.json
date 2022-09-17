@@ -1,16 +1,16 @@
 {
-    "name": "abdfa55e9082ef2ff7337cf23903c318",
-    "theme": "syntax",
-    "version": "2.0.5739",
-    "description": "บอลสูง ต่ำ 2.75 คือ【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "บอลสูง ต่ำ 2.75 คือ【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5739",
+  "description": "บอลสูง ต่ำ 2.75 คือ【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
