@@ -1,16 +1,16 @@
 {
-    "name": "c4d9d2811173d2395cafcb4511cc438b",
-    "theme": "syntax",
-    "version": "2.0.5301",
-    "description": "เว็บพนันที่คนเล่นเยอะที่สุด【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บพนันที่คนเล่นเยอะที่สุด【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5301",
+  "description": "เว็บพนันที่คนเล่นเยอะที่สุด【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
