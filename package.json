@@ -1,15 +1,15 @@
 {
-    "name": "7a19731c14834e950f7e4e769d7f1253",
-    "theme": "syntax",
-    "version": "2.0.6104",
-    "description": "เกมดัมมี่ pc【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [
-        "เกมดัมมี่ pc",
-        "โหลด เกมส์ ไพ่ ดั ม มี่ pc"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมดัมมี่ pc【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6104",
+  "description": "เกมดัมมี่ pc【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+  "keywords": [
+    "เกมดัมมี่ pc",
+    "โหลด เกมส์ ไพ่ ดั ม มี่ pc"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
