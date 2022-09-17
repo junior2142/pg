@@ -1,16 +1,16 @@
 {
-    "name": "fb0030fafd3a4559202b1dec72ff8a62",
-    "theme": "syntax",
-    "version": "2.0.5249",
-    "description": "สูตร บา ค่า ร่า AE CASINO【คูปอง 1ufabet】 ✔ แจ็กพอตแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สูตร บา ค่า ร่า AE CASINO【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5249",
+  "description": "สูตร บา ค่า ร่า AE CASINO【คูปอง 1ufabet】 ✔ แจ็กพอตแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
