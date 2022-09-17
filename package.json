@@ -1,16 +1,16 @@
 {
-    "name": "83fdeb6c4729c3f4ab184824f8d7eba9",
-    "theme": "syntax",
-    "version": "2.0.5271",
-    "description": "บอทบาคาร่า pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "บอทบาคาร่า pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.5271",
+  "description": "บอทบาคาร่า pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
