@@ -1,16 +1,16 @@
 {
-    "name": "9b3ba3a4c59a2eb8218295fddb2937b5",
-    "theme": "syntax",
-    "version": "2.0.5890",
-    "description": "เกมไพ่แคง ดัมมี่【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมไพ่แคง ดัมมี่【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5890",
+  "description": "เกมไพ่แคง ดัมมี่【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
