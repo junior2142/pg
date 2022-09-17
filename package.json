@@ -1,16 +1,16 @@
 {
-    "name": "ab9beecbcc3608f575b8085cb2269dfd",
-    "theme": "syntax",
-    "version": "2.0.5757",
-    "description": "พนันบอล pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "พนันบอล pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.5757",
+  "description": "พนันบอล pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
