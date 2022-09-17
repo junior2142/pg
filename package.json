@@ -1,14 +1,14 @@
 {
-    "name": "88900a40696b0316f7f65fe244765596",
-    "theme": "syntax",
-    "version": "2.0.5982",
-    "description": "เกมไพ่เล่นกับเพื่อน ออนไลน์【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เกมไพ่เล่นกับเพื่อน ออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมไพ่เล่นกับเพื่อน ออนไลน์【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5982",
+  "description": "เกมไพ่เล่นกับเพื่อน ออนไลน์【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เกมไพ่เล่นกับเพื่อน ออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
