@@ -1,16 +1,16 @@
 {
-    "name": "529881d7d5e3483aadc161bc0926a064",
-    "theme": "syntax",
-    "version": "2.0.5751",
-    "description": "นักพนันบอล【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "นักพนันบอล【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5751",
+  "description": "นักพนันบอล【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
