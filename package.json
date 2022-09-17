@@ -1,16 +1,16 @@
 {
-    "name": "ccf2b943321a44bdddc3b61977d2dc11",
-    "theme": "syntax",
-    "version": "2.0.5263",
-    "description": "บา ค่า ร่า ไม่มีขั้นต่ำ【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "บา ค่า ร่า ไม่มีขั้นต่ำ【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5263",
+  "description": "บา ค่า ร่า ไม่มีขั้นต่ำ【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
