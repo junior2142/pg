@@ -1,16 +1,16 @@
 {
-    "name": "140d44abecc80564b71adf998adf3e4d",
-    "theme": "syntax",
-    "version": "2.0.5507",
-    "description": "เว็บบอล 777【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บบอล 777【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5507",
+  "description": "เว็บบอล 777【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
