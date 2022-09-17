@@ -1,14 +1,14 @@
 {
-    "name": "cb585c693f0759a4d90b2befb63a7fbd",
-    "theme": "syntax",
-    "version": "2.0.6020",
-    "description": "เกมส์ไพ่ windows 7【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลบิ๊กวินแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "เกมส์ไพ่ windows 7"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมส์ไพ่ windows 7【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6020",
+  "description": "เกมส์ไพ่ windows 7【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลบิ๊กวินแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "เกมส์ไพ่ windows 7"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
