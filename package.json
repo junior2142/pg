@@ -1,16 +1,16 @@
 {
-    "name": "47926a87a44b9e30c033c3ff764122fd",
-    "theme": "syntax",
-    "version": "2.0.5605",
-    "description": "วิธีเล่นบอลออนไลน์ ให้ได้เงิน【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "วิธีเล่นบอลออนไลน์ ให้ได้เงิน【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5605",
+  "description": "วิธีเล่นบอลออนไลน์ ให้ได้เงิน【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
