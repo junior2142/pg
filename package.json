@@ -1,16 +1,16 @@
 {
-    "name": "d1e793d069efa571b572394e0289dc09",
-    "theme": "syntax",
-    "version": "2.0.5501",
-    "description": "เว็บพนันฝากถอน เอง【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บพนันฝากถอน เอง【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5501",
+  "description": "เว็บพนันฝากถอน เอง【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
