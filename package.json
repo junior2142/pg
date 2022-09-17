@@ -1,14 +1,14 @@
 {
-    "name": "72f131ae68be428c4ecb9dd6f2f727b8",
-    "theme": "syntax",
-    "version": "2.0.6106",
-    "description": "โหลดเกมดัมมี่ไทยแลนด์【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "โหลดเกมดัมมี่ไทยแลนด์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "โหลดเกมดัมมี่ไทยแลนด์【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6106",
+  "description": "โหลดเกมดัมมี่ไทยแลนด์【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "โหลดเกมดัมมี่ไทยแลนด์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
