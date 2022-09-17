@@ -1,16 +1,16 @@
 {
-    "name": "a5353b50b37b77d9dabb873581370b58",
-    "theme": "syntax",
-    "version": "2.0.5483",
-    "description": "เว็บบอลขั้น ต่ํา 10 บาท【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บบอลขั้น ต่ํา 10 บาท【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5483",
+  "description": "เว็บบอลขั้น ต่ํา 10 บาท【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
