@@ -1,16 +1,16 @@
 {
-    "name": "aa2a153cb3720a58637fefcd60447cfa",
-    "theme": "syntax",
-    "version": "2.0.5191",
-    "description": "ทดลองเล่นสล็อต【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ทดลองเล่นสล็อต【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5191",
+  "description": "ทดลองเล่นสล็อต【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
