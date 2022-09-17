@@ -1,16 +1,16 @@
 {
-    "name": "2abc7e865a7c6ad62a30b691f5f752a5",
-    "theme": "syntax",
-    "version": "2.0.5479",
-    "description": "พนันบอลออนไลน์ 77【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "พนันบอลออนไลน์ 77【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5479",
+  "description": "พนันบอลออนไลน์ 77【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
