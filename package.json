@@ -1,16 +1,14 @@
 {
-  "name": "เกมไพ่ ใน windows 10【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
-  "theme": "syntax",
-  "version": "2.0.6023",
-  "description": "เกมไพ่ ใน windows 10【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-  "keywords": [
-    "เกมไพ่ ใน windows 10",
-    "เกม ไพ่ windows 10",
-    "game ไพ่ windows 10"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "25d61cc42be88bc0874feaf5e1279a1e",
+    "theme": "syntax",
+    "version": "2.0.6023",
+    "description": "โหลดเกมไพ่ในคอม【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลใหญ่แตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+    "keywords": [
+        "โหลดเกมไพ่ในคอม"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
