@@ -1,16 +1,16 @@
 {
-    "name": "a957d1af1d4cedab10a9ddb21e6c9a8a",
-    "theme": "syntax",
-    "version": "2.0.5213",
-    "description": "บาคาร่า99【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "บาคาร่า99【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.5213",
+  "description": "บาคาร่า99【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
