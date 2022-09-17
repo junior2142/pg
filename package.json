@@ -1,15 +1,15 @@
 {
-    "name": "3e996e70a96c123b8be23a99c54649c9",
-    "theme": "syntax",
-    "version": "2.0.6060",
-    "description": "เกมไพ่ Spider Solitaire【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-    "keywords": [
-        "เกมไพ่ spider solitaire ดาวน์โหลด",
-        "เกมไพ่ spider solitaire"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมไพ่ Spider Solitaire【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6060",
+  "description": "เกมไพ่ Spider Solitaire【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+  "keywords": [
+    "เกมไพ่ spider solitaire ดาวน์โหลด",
+    "เกมไพ่ spider solitaire"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
