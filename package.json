@@ -1,16 +1,16 @@
 {
-    "name": "05607ef08f9a48911ec888047010b334",
-    "theme": "syntax",
-    "version": "2.0.5421",
-    "description": "สเต็ป 10 แตก【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "เครดิตฟรี",
-        "สล็อต",
-        "สล็อตออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สเต็ป 10 แตก【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.5421",
+  "description": "สเต็ป 10 แตก【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "เครดิตฟรี",
+    "สล็อต",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
