@@ -1,12 +1,12 @@
 {
-    "name": "a6de1c3559bd41af2b66a098141b2512",
-    "theme": "syntax",
-    "version": "2.0.6766",
-    "description": "แอพหาเงินเข้า paypal 2021【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "แอพหาเงินเข้า paypal 2021【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6766",
+  "description": "แอพหาเงินเข้า paypal 2021【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
