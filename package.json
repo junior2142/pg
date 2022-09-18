@@ -1,14 +1,14 @@
 {
-    "name": "19f9a760d0a46dd830dc44fb19f6172e",
-    "theme": "syntax",
-    "version": "2.0.6982",
-    "description": "เว็บสล็อต pg เว็บตรง ค่าย ใหญ่【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เว็บสล็อต pg เว็บตรงค่ายใหญ่"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บสล็อต pg เว็บตรง ค่าย ใหญ่【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6982",
+  "description": "เว็บสล็อต pg เว็บตรง ค่าย ใหญ่【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เว็บสล็อต pg เว็บตรงค่ายใหญ่"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
