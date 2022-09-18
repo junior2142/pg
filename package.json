@@ -1,12 +1,12 @@
 {
-  "name": "ไก่ชนออนไลน์ ลําปาง",
-  "theme": "syntax",
-  "version": "2.0.7740",
-  "description": "ไก่ชนออนไลน์ ลําปาง ✔ โบนัสแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "f51764da35f2dd99328c9ccbfd58853f",
+    "theme": "syntax",
+    "version": "2.0.7740",
+    "description": "ไก่ชนออนไลน์ ล่าสุด ✔ รางวัลบิ๊กวินแตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+    "keywords": [],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
