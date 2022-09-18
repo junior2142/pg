@@ -1,12 +1,12 @@
 {
-    "name": "debccd944ff2873d3c931d620cab33d5",
-    "theme": "syntax",
-    "version": "2.0.6838",
-    "description": "เกมที่หาเงินได้ pc【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมที่หาเงินได้ pc【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6838",
+  "description": "เกมที่หาเงินได้ pc【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
