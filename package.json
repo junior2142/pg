@@ -1,14 +1,14 @@
 {
-    "name": "a7d6c6ea39e0801dd249216afe504d07",
-    "theme": "syntax",
-    "version": "2.0.6146",
-    "description": "แอ พ ไพ่ 52 ใบ iOS【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "แอ พ ไพ่ 52 ใบ ios"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "แอ พ ไพ่ 52 ใบ iOS【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6146",
+  "description": "แอ พ ไพ่ 52 ใบ iOS【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "แอ พ ไพ่ 52 ใบ ios"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
