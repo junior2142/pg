@@ -1,12 +1,12 @@
 {
-  "name": "ไก่ชนออนไลน์ ฮั้ว",
-  "theme": "syntax",
-  "version": "2.0.7712",
-  "description": "ไก่ชนออนไลน์ ฮั้ว ✔ โบนัสแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "525cfbb83b603b23bcab0b8930b9f786",
+    "theme": "syntax",
+    "version": "2.0.7712",
+    "description": "ไก่ชนออนไลน์ ฮั่นๆ ✔ โบนัสแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+    "keywords": [],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
