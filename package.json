@@ -1,15 +1,15 @@
 {
-    "name": "ec9e2ea42374709759f2911e61c78d33",
-    "theme": "syntax",
-    "version": "2.0.6260",
-    "description": "โหลด เกม ต่อ ไพ่【คูปอง 1ufabet】 ✔ โบนัสแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [
-        "โหลด เกมส์ เรียง ไพ่ solitaire",
-        "โหลด เกมส์ จับ คู่ ไพ่ นกกระจอก ฟรี"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "โหลด เกม ต่อ ไพ่【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6260",
+  "description": "โหลด เกม ต่อ ไพ่【คูปอง 1ufabet】 ✔ โบนัสแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+  "keywords": [
+    "โหลด เกมส์ เรียง ไพ่ solitaire",
+    "โหลด เกมส์ จับ คู่ ไพ่ นกกระจอก ฟรี"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
