@@ -1,14 +1,14 @@
 {
-    "name": "e597a9e13408ddd4b5f479a4cc76ef25",
-    "theme": "syntax",
-    "version": "2.0.6490",
-    "description": "มารวย 777【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "มารวย 777"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "มารวย 777【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6490",
+  "description": "มารวย 777【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "มารวย 777"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
