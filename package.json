@@ -1,15 +1,15 @@
 {
-    "name": "fb60682218af0a2ed104aa69c6f00f61",
-    "theme": "syntax",
-    "version": "2.0.7168",
-    "description": "เว็บสล็อตอันดับ 1 ของไทย【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-    "keywords": [
-        "เว็บสล็อตอันดับ 1 ของไทย",
-        "เว็บสล็อตอันดับ 1 ของไทย android"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บสล็อตอันดับ 1 ของไทย【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.7168",
+  "description": "เว็บสล็อตอันดับ 1 ของไทย【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+  "keywords": [
+    "เว็บสล็อตอันดับ 1 ของไทย",
+    "เว็บสล็อตอันดับ 1 ของไทย android"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
