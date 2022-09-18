@@ -1,12 +1,12 @@
 {
-    "name": "cf85aaeaaca9c68e5d3044d212b26532",
-    "theme": "syntax",
-    "version": "2.0.7783",
-    "description": "ไก่ชนออนไลน์ บทสวด ✔ รางวัลใหญ่แตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": "ไก่ชนออนไลน์ บทสวด",
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ บทสวด",
+  "theme": "syntax",
+  "version": "2.0.7783",
+  "description": "ไก่ชนออนไลน์ บทสวด ✔ รางวัลใหญ่แตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": "ไก่ชนออนไลน์ บทสวด",
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
