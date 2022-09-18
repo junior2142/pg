@@ -1,14 +1,14 @@
 {
-  "name": "ยา เลี้ยง ไก่ ออก ชน",
-  "theme": "syntax",
-  "version": "2.0.7750",
-  "description": "ยา เลี้ยง ไก่ ออก ชน ✔ โบนัสแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-  "keywords": [
-    "ยา เลี้ยง ไก่ ออก ชน"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "7cb6750d362d80064cb711a7b23b35b1",
+    "theme": "syntax",
+    "version": "2.0.7750",
+    "description": "ยา ไก่ชน วอร์มอัพ ✔ รางวัลบิ๊กวินแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+    "keywords": [
+        "ยา ไก่ชน วอร์มอัพ"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
