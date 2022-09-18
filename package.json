@@ -1,14 +1,14 @@
 {
-    "name": "26e16308952a8184c33a81105f7d9b5a",
-    "theme": "syntax",
-    "version": "2.0.6348",
-    "description": "เกมยิงปลา เว็บไหนดี 2022【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "เกมยิงปลา เว็บไหนดี 2022"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมยิงปลา เว็บไหนดี 2022【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6348",
+  "description": "เกมยิงปลา เว็บไหนดี 2022【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "เกมยิงปลา เว็บไหนดี 2022"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
