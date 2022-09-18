@@ -1,14 +1,14 @@
 {
-    "name": "e861254dbf595bb6cd5ecd7b1adc2deb",
-    "theme": "syntax",
-    "version": "2.0.6484",
-    "description": "มารวย99 สมัคร【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "มารวย99 สมัคร"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "มารวย99 สมัคร【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6484",
+  "description": "มารวย99 สมัคร【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "มารวย99 สมัคร"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
