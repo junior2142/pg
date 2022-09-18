@@ -1,12 +1,12 @@
 {
-    "name": "1ce72b79a5a33c099868d5743429f093",
-    "theme": "syntax",
-    "version": "2.0.6772",
-    "description": "เกม คลิก ได้เงิน【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกม คลิก ได้เงิน【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6772",
+  "description": "เกม คลิก ได้เงิน【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
