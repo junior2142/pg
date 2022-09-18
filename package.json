@@ -1,14 +1,14 @@
 {
-    "name": "e91ae6374b3693276c975a34bf7557e3",
-    "theme": "syntax",
-    "version": "2.0.6674",
-    "description": "เกมได้เงินจริงเข้าวอเลท【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "เกมได้เงินจริงเข้าวอเลท"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมได้เงินจริงเข้าวอเลท【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6674",
+  "description": "เกมได้เงินจริงเข้าวอเลท【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "เกมได้เงินจริงเข้าวอเลท"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
