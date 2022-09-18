@@ -1,14 +1,14 @@
 {
-    "name": "89bc97f6f4d4c45f185f19a1e5cb18de",
-    "theme": "syntax",
-    "version": "2.0.6192",
-    "description": "เกมส์ เรียง ไพ่ แมงมุม เหมือน คอม【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "เกมส์ เรียง ไพ่ แมงมุม เหมือน คอม"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมส์ เรียง ไพ่ แมงมุม เหมือน คอม【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6192",
+  "description": "เกมส์ เรียง ไพ่ แมงมุม เหมือน คอม【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "เกมส์ เรียง ไพ่ แมงมุม เหมือน คอม"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
