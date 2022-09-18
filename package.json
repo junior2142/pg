@@ -1,14 +1,14 @@
 {
-    "name": "248d56b3d42ae28aaef64147a84870de",
-    "theme": "syntax",
-    "version": "2.0.6668",
-    "description": "piggy go ได้เงินจริงไหม pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "piggy go ได้เงินจริงไหม pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "piggy go ได้เงินจริงไหม pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6668",
+  "description": "piggy go ได้เงินจริงไหม pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "piggy go ได้เงินจริงไหม pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
