@@ -1,12 +1,14 @@
 {
-  "name": "ไก่ชนออนไลน์ ณ ระนอง",
-  "theme": "syntax",
-  "version": "2.0.7802",
-  "description": "ไก่ชนออนไลน์ ณ ระนอง ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-  "keywords": "ไก่ชนออนไลน์ ณ ระนอง",
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "6e0d626d5f761277d202f7f8e627cab6",
+    "theme": "syntax",
+    "version": "2.0.7802",
+    "description": "scpg สล็อต ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+    "keywords": [
+        "scpg สล็อต"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
