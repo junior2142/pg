@@ -1,14 +1,12 @@
 {
-  "name": "วิธีเล่น ไก่ชน ออนไลน์",
-  "theme": "syntax",
-  "version": "2.0.7732",
-  "description": "วิธีเล่น ไก่ชน ออนไลน์ ✔ รางวัลบิ๊กวินแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-  "keywords": [
-    "วิธีเล่น ไก่ชน ออนไลน์"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "df97908e09e5c4e9610796a8c4e4344a",
+    "theme": "syntax",
+    "version": "2.0.7732",
+    "description": "ไก่ชนออนไลน์ 70 ล้าน ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+    "keywords": [],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
