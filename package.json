@@ -1,23 +1,23 @@
 {
-    "name": "4e3b79768648a9af601b49f81a029011",
-    "theme": "syntax",
-    "version": "2.0.6308",
-    "description": "เกม Killer【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เกม killer",
-        "เกม killer sudoku",
-        "game killer",
-        "game killer apk",
-        "game killer no root",
-        "game killer apk download",
-        "game killer 1.0.2 apk",
-        "game killer no root apk",
-        "game killer download",
-        "game killer no root 2021"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกม Killer【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6308",
+  "description": "เกม Killer【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เกม killer",
+    "เกม killer sudoku",
+    "game killer",
+    "game killer apk",
+    "game killer no root",
+    "game killer apk download",
+    "game killer 1.0.2 apk",
+    "game killer no root apk",
+    "game killer download",
+    "game killer no root 2021"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
