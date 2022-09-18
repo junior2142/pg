@@ -1,14 +1,14 @@
 {
-    "name": "f600c6374bac94819f7e4d9f51aac70d",
-    "theme": "syntax",
-    "version": "2.0.7729",
-    "description": "วิธีดู ไก่ชน ออนไลน์ ✔ โบนัสแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "วิธี ดู ไก่ชน ออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "วิธีดู ไก่ชน ออนไลน์",
+  "theme": "syntax",
+  "version": "2.0.7729",
+  "description": "วิธีดู ไก่ชน ออนไลน์ ✔ โบนัสแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "วิธี ดู ไก่ชน ออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
