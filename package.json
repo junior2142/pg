@@ -1,12 +1,12 @@
 {
-    "name": "e46597814e71c37b288e9d106695f140",
-    "theme": "syntax",
-    "version": "2.0.7721",
-    "description": "ไก่ชนออนไลน์ สนามมหาลาภ ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ สนามมหาลาภ",
+  "theme": "syntax",
+  "version": "2.0.7721",
+  "description": "ไก่ชนออนไลน์ สนามมหาลาภ ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
