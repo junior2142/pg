@@ -1,12 +1,14 @@
 {
-  "name": "ไก่ชนออนไลน์ ยอดนิยม",
-  "theme": "syntax",
-  "version": "2.0.7758",
-  "description": "ไก่ชนออนไลน์ ยอดนิยม ✔ รางวัลบิ๊กวินแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "d4ccae3127cc0e008bd0d3935481cd62",
+    "theme": "syntax",
+    "version": "2.0.7758",
+    "description": "ไก่ชน ออนไลน์ ภาษา อังกฤษ ✔ รางวัลใหญ่แตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+    "keywords": [
+        "ไก่ชน ออนไลน์ ภาษา อังกฤษ"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
