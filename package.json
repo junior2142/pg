@@ -1,15 +1,15 @@
 {
-    "name": "b5c7b0edf0d88d228e020db1b370fc95",
-    "theme": "syntax",
-    "version": "2.0.6600",
-    "description": "เล่นเกมได้เงินเข้าบัญชี【คูปอง 1ufabet】 ✔ โบนัสแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "เล่นเกมได้เงินเข้าบัญชีธนาคาร",
-        "เล่นเกมได้เงินเข้าบัญชีธนาคาร pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เล่นเกมได้เงินเข้าบัญชี【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6600",
+  "description": "เล่นเกมได้เงินเข้าบัญชี【คูปอง 1ufabet】 ✔ โบนัสแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "เล่นเกมได้เงินเข้าบัญชีธนาคาร",
+    "เล่นเกมได้เงินเข้าบัญชีธนาคาร pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
