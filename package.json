@@ -1,14 +1,14 @@
 {
-    "name": "edf7e458f10633f9633fa1df66b1d070",
-    "theme": "syntax",
-    "version": "2.0.6796",
-    "description": "เกม crypto สายฟรี【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ โบนัสแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เกม crypto สายฟรี"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกม crypto สายฟรี【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6796",
+  "description": "เกม crypto สายฟรี【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ โบนัสแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เกม crypto สายฟรี"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
