@@ -1,14 +1,14 @@
 {
-    "name": "8cf8d7a0af27c5621f6d0d74c86685e8",
-    "theme": "syntax",
-    "version": "2.0.6736",
-    "description": "เกมทรูมันนี่ ได้เงินจริงไหม【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เกมทรูมันนี่ ได้เงินจริงไหม"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมทรูมันนี่ ได้เงินจริงไหม【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6736",
+  "description": "เกมทรูมันนี่ ได้เงินจริงไหม【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เกมทรูมันนี่ ได้เงินจริงไหม"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
