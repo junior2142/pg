@@ -1,15 +1,15 @@
 {
-    "name": "d365c67c9299ca488db6e4133d8c4970",
-    "theme": "syntax",
-    "version": "2.0.6684",
-    "description": "เล่นเกมได้เงิน pantip【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เล่นเกมได้เงิน pantip",
-        "เล่น เกม แคน ดี้ ได้ เงิน pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เล่นเกมได้เงิน pantip【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6684",
+  "description": "เล่นเกมได้เงิน pantip【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เล่นเกมได้เงิน pantip",
+    "เล่น เกม แคน ดี้ ได้ เงิน pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
