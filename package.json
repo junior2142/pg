@@ -1,14 +1,14 @@
 {
-    "name": "b61e10246296b3770d0ced3fb1e44316",
-    "theme": "syntax",
-    "version": "2.0.7613",
-    "description": "สล็อตเว็บตรง สล็อต888แตกง่าย ✔ โบนัสแตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "สล็อต888แตกง่าย"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง สล็อต888แตกง่าย",
+  "theme": "syntax",
+  "version": "2.0.7613",
+  "description": "สล็อตเว็บตรง สล็อต888แตกง่าย ✔ โบนัสแตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "สล็อต888แตกง่าย"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
