@@ -1,14 +1,14 @@
 {
-    "name": "acc398db35d8dfbbcc89572cb385ebe8",
-    "theme": "syntax",
-    "version": "2.0.6166",
-    "description": "ไพ่สามเหลือง【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "ไพ่สามเหลือง"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไพ่สามเหลือง【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6166",
+  "description": "ไพ่สามเหลือง【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "ไพ่สามเหลือง"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
