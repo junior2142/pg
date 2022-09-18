@@ -1,12 +1,12 @@
 {
-  "name": "ไก่ชนออนไลน์ พรุ่งนี้",
-  "theme": "syntax",
-  "version": "2.0.7764",
-  "description": "ไก่ชนออนไลน์ พรุ่งนี้ ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "5808d1a88e9510aeea0e62df7a2cceae",
+    "theme": "syntax",
+    "version": "2.0.7764",
+    "description": "ไก่ชนออนไลน์ ฝรั่งเศส ✔ โบนัสแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+    "keywords": [],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
