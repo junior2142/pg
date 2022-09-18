@@ -1,14 +1,14 @@
 {
-    "name": "4a2b178a48dd8e85b3148567b7969e30",
-    "theme": "syntax",
-    "version": "2.0.6524",
-    "description": "เกมยิงปลาapk【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลบิ๊กวินแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เกมยิงปลาapk"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมยิงปลาapk【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6524",
+  "description": "เกมยิงปลาapk【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลบิ๊กวินแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เกมยิงปลาapk"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
