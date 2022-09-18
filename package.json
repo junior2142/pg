@@ -1,14 +1,14 @@
 {
-    "name": "c9927b1a4e443eed8a9d6ba0ed3417fe",
-    "theme": "syntax",
-    "version": "2.0.6542",
-    "description": "ค่ายเกมยิงปลา【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลบิ๊กวินแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "ค่ายเกมยิงปลา"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ค่ายเกมยิงปลา【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6542",
+  "description": "ค่ายเกมยิงปลา【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลบิ๊กวินแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "ค่ายเกมยิงปลา"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
