@@ -1,15 +1,15 @@
 {
-    "name": "30b270b900f2eb1bbb32c302ef6f8128",
-    "theme": "syntax",
-    "version": "2.0.6566",
-    "description": "เกมตกปลาฟรี【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "เกมตกปลาฟรี",
-        "โหลด เกมตกปลาฟรี"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมตกปลาฟรี【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6566",
+  "description": "เกมตกปลาฟรี【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "เกมตกปลาฟรี",
+    "โหลด เกมตกปลาฟรี"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
