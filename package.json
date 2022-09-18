@@ -1,16 +1,16 @@
 {
-    "name": "d324b8d735afc9abe1dd113630109e70",
-    "theme": "syntax",
-    "version": "2.0.6304",
-    "description": "เกมไพ่ windows 10【คูปอง 1ufabet】 ✔ โบนัสแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "เกมไพ่ windows 10",
-        "เกม ไพ่ วินโดว์ 10 อยู่ตรงไหน",
-        "โหลด เกม ไพ่ spider windows 10"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมไพ่ windows 10【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6304",
+  "description": "เกมไพ่ windows 10【คูปอง 1ufabet】 ✔ โบนัสแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "เกมไพ่ windows 10",
+    "เกม ไพ่ วินโดว์ 10 อยู่ตรงไหน",
+    "โหลด เกม ไพ่ spider windows 10"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
