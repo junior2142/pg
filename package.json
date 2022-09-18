@@ -1,16 +1,16 @@
 {
-    "name": "0a57fa894f882cd48c27e2bf58c66e25",
-    "theme": "syntax",
-    "version": "2.0.7244",
-    "description": "สล็อต777 pg【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "สล็อต777 pg",
-        "slot 777 pg",
-        "เว็บ 777 สล็อต pg"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อต777 pg【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.7244",
+  "description": "สล็อต777 pg【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "สล็อต777 pg",
+    "slot 777 pg",
+    "เว็บ 777 สล็อต pg"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
