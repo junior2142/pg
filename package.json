@@ -1,14 +1,14 @@
 {
-    "name": "c44f267e91ed50b6e9e163f91cfc2c59",
-    "theme": "syntax",
-    "version": "2.0.7068",
-    "description": "วิธีเล่นสล็อต pg ให้ แตก【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "วิธีเล่นสล็อต pg ให้แตก"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "วิธีเล่นสล็อต pg ให้ แตก【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.7068",
+  "description": "วิธีเล่นสล็อต pg ให้ แตก【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "วิธีเล่นสล็อต pg ให้แตก"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
