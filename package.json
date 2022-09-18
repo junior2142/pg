@@ -1,11 +1,9 @@
 {
-    "name": "73e34e101139b550e384674807abece7",
+    "name": "dac50a92b03d11fd47ffc7c27a11ba61",
     "theme": "syntax",
     "version": "2.0.7776",
-    "description": "ออนไลน์ไก่ชน ✔ รางวัลใหญ่แตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "ออนไลน์ไก่ชน"
-    ],
+    "description": "ไก่ชนออนไลน์ ฎีกา ✔ แจ็กพอตแตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+    "keywords": [],
     "repository": "https://github.com/morgra168168/pg",
     "license": "MIT",
     "engines": {
