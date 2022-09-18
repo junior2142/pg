@@ -1,12 +1,12 @@
 {
-    "name": "439559a7c21a4378a6bc45b7661ad731",
-    "theme": "syntax",
-    "version": "2.0.7723",
-    "description": "ไก่ชนออนไลน์ ษานารี ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ ษานารี",
+  "theme": "syntax",
+  "version": "2.0.7723",
+  "description": "ไก่ชนออนไลน์ ษานารี ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
