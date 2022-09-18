@@ -1,14 +1,14 @@
 {
-    "name": "4259908ddbbfeac1e12a0b441147678b",
-    "theme": "syntax",
-    "version": "2.0.6362",
-    "description": "เกมยิงปลา joker【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เกมยิงปลา joker"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมยิงปลา joker【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6362",
+  "description": "เกมยิงปลา joker【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เกมยิงปลา joker"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
