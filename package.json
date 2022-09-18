@@ -1,14 +1,14 @@
 {
-    "name": "7bada16c91a9ceaf1cef715cc77a498e",
-    "theme": "syntax",
-    "version": "2.0.7489",
-    "description": "สล็อตเว็บตรง แนะนําเว็บสล็อต แตกง่าย 2022 pantip ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "แนะนําเว็บสล็อต แตกง่าย 2022 pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง แนะนําเว็บสล็อต แตกง่าย 2022 pantip",
+  "theme": "syntax",
+  "version": "2.0.7489",
+  "description": "สล็อตเว็บตรง แนะนําเว็บสล็อต แตกง่าย 2022 pantip ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "แนะนําเว็บสล็อต แตกง่าย 2022 pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
