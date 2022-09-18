@@ -1,12 +1,12 @@
 {
-    "name": "35790f536f9da5cbb6000bafd5d51273",
-    "theme": "syntax",
-    "version": "2.0.7737",
-    "description": "ไก่ชนออนไลน์ ลูกทุ่ง ✔ โบนัสแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ ลูกทุ่ง",
+  "theme": "syntax",
+  "version": "2.0.7737",
+  "description": "ไก่ชนออนไลน์ ลูกทุ่ง ✔ โบนัสแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
