@@ -1,14 +1,14 @@
 {
-    "name": "e1cb617a40f1de88f9bc90d23a37a83d",
-    "theme": "syntax",
-    "version": "2.0.7871",
-    "description": "บาคาร่าauto【คูปอง แจกเครดิตฟรี】 ✔ เกมคาสิโนออนไลน์ เว็บหลัก ที่ดีที่สุดในประเทศ โอนเติมเครดิต แบบไม่มีขั้นต่ำ",
-    "keywords": [
-        "บาคาร่าauto77"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "บาคาร่าauto【คูปอง แจกเครดิตฟรี】",
+  "theme": "syntax",
+  "version": "2.0.7871",
+  "description": "บาคาร่าauto【คูปอง แจกเครดิตฟรี】 ✔ เกมคาสิโนออนไลน์ เว็บหลัก ที่ดีที่สุดในประเทศ โอนเติมเครดิต แบบไม่มีขั้นต่ำ",
+  "keywords": [
+    "บาคาร่าauto77"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
