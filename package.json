@@ -1,14 +1,14 @@
 {
-    "name": "f801fafd9ad51244160c8bece9b8ae39",
-    "theme": "syntax",
-    "version": "2.0.7451",
-    "description": "สล็อตเว็บตรง วิธีการปั่นสล็อตให้ แตก ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "วิธีการปั่นสล็อตให้ แตก"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง วิธีการปั่นสล็อตให้ แตก",
+  "theme": "syntax",
+  "version": "2.0.7451",
+  "description": "สล็อตเว็บตรง วิธีการปั่นสล็อตให้ แตก ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "วิธีการปั่นสล็อตให้ แตก"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
