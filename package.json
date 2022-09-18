@@ -1,12 +1,12 @@
 {
-  "name": "ไก่ชนออนไลน์ 300",
-  "theme": "syntax",
-  "version": "2.0.7686",
-  "description": "ไก่ชนออนไลน์ 300 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "b8c1007ea3cf567266f0fdce73948d60",
+    "theme": "syntax",
+    "version": "2.0.7686",
+    "description": "ไก่ชนออนไลน์ 3d ✔ โบนัสแตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+    "keywords": [],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
