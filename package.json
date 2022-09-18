@@ -1,15 +1,14 @@
 {
-  "name": "เล่นเกมได้เงิน pantip【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.6685",
-  "description": "เล่นเกมได้เงิน pantip【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-  "keywords": [
-    "เล่นเกมได้เงิน pantip",
-    "เล่น เกม แคน ดี้ ได้ เงิน pantip"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "c196969d8cb11ec3044e8fceef5c2ea4",
+    "theme": "syntax",
+    "version": "2.0.6685",
+    "description": "เกมส์ ฟาร์ม ได้เงินจริง 2021【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ แจ็กพอตแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+    "keywords": [
+        "เกมส์ ฟาร์ม ได้เงินจริง 2021"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
