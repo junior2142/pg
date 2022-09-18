@@ -1,15 +1,15 @@
 {
-    "name": "0ede5f7367539a3aa003342a23e92e0e",
-    "theme": "syntax",
-    "version": "2.0.7693",
-    "description": "ไก่ชน 2019 ✔ โบนัสแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "ไก่ชน 2019",
-        "ไก่ชน ล่าสุด 2019"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชน 2019",
+  "theme": "syntax",
+  "version": "2.0.7693",
+  "description": "ไก่ชน 2019 ✔ โบนัสแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "ไก่ชน 2019",
+    "ไก่ชน ล่าสุด 2019"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
