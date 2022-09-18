@@ -1,14 +1,14 @@
 {
-    "name": "8d9ca1e29aaa4bf72918f9d4a9b10391",
-    "theme": "syntax",
-    "version": "2.0.7040",
-    "description": "วิธีการปั่นสล็อตให้ แตก【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "วิธีการปั่นสล็อตให้ แตก"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "วิธีการปั่นสล็อตให้ แตก【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.7040",
+  "description": "วิธีการปั่นสล็อตให้ แตก【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "วิธีการปั่นสล็อตให้ แตก"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
