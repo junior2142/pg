@@ -1,23 +1,23 @@
 {
-    "name": "5628d31f42f539875d2caa9feb43a0bb",
-    "theme": "syntax",
-    "version": "2.0.6824",
-    "description": "เกม NFT ฟรี【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "เกม nft ฟรี",
-        "เกม nft ฟรี มือถือ",
-        "เกม nft ฟรี ได้เงิน",
-        "เกม nft ฟรี ios",
-        "เกม nft ฟรี 2022",
-        "เกม nft ฟรี pc",
-        "เกม nft free to play",
-        "เกม nft free",
-        "game nft free to play",
-        "game nft free play to earn"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกม NFT ฟรี【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6824",
+  "description": "เกม NFT ฟรี【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "เกม nft ฟรี",
+    "เกม nft ฟรี มือถือ",
+    "เกม nft ฟรี ได้เงิน",
+    "เกม nft ฟรี ios",
+    "เกม nft ฟรี 2022",
+    "เกม nft ฟรี pc",
+    "เกม nft free to play",
+    "เกม nft free",
+    "game nft free to play",
+    "game nft free play to earn"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
