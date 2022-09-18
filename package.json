@@ -1,15 +1,15 @@
 {
-    "name": "cefc026281ab571b45e3fe89e626ed85",
-    "theme": "syntax",
-    "version": "2.0.6254",
-    "description": "เกมส์เรียงไพ่แมงมุม【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "เกมเรียงไพ่แมงมุม",
-        "เกมส์เรียงไพ่แมงมุม เหมือนคอม"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมส์เรียงไพ่แมงมุม【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6254",
+  "description": "เกมส์เรียงไพ่แมงมุม【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "เกมเรียงไพ่แมงมุม",
+    "เกมส์เรียงไพ่แมงมุม เหมือนคอม"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
