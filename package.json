@@ -1,9 +1,11 @@
 {
-    "name": "a2fe8b09600b3c48a396c658f8d2d9b0",
+    "name": "bd245d682d5943bf4291b098d5221699",
     "theme": "syntax",
     "version": "2.0.7800",
-    "description": "ไก่ชนออนไลน์ ตอนนี้ ✔ แจ็กพอตแตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": "ไก่ชนออนไลน์ ตอนนี้",
+    "description": "ดูไก่ชนออนไลน์สด ✔ รางวัลใหญ่แตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+    "keywords": [
+        "ดูไก่ชนออนไลน์สด"
+    ],
     "repository": "https://github.com/morgra168168/pg",
     "license": "MIT",
     "engines": {
