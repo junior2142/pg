@@ -1,15 +1,15 @@
 {
-    "name": "139477bde5e06f3c40b3bf33bcd20a71",
-    "theme": "syntax",
-    "version": "2.0.7649",
-    "description": "สล็อตเว็บตรง ดาวน์โหลด สล็อต888 ✔ แจ็กพอตแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "ดาวน์โหลด สล็อต888",
-        "download slot 888"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง ดาวน์โหลด สล็อต888",
+  "theme": "syntax",
+  "version": "2.0.7649",
+  "description": "สล็อตเว็บตรง ดาวน์โหลด สล็อต888 ✔ แจ็กพอตแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "ดาวน์โหลด สล็อต888",
+    "download slot 888"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
