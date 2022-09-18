@@ -1,14 +1,14 @@
 {
-    "name": "2ed848bef5c0362ce42161f59a29c0ea",
-    "theme": "syntax",
-    "version": "2.0.6936",
-    "description": "เว็บสล็อต แจกหนัก ๆ【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [
-        "เว็บสล็อต แจกหนัก ๆ"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บสล็อต แจกหนัก ๆ【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6936",
+  "description": "เว็บสล็อต แจกหนัก ๆ【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+  "keywords": [
+    "เว็บสล็อต แจกหนัก ๆ"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
