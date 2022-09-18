@@ -1,14 +1,14 @@
 {
-    "name": "92ab573c102d9b8f52084674ed110e5a",
-    "theme": "syntax",
-    "version": "2.0.6782",
-    "description": "เล่นเกมแคนดี้ได้เงิน pantip【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เล่นเกมแคนดี้ได้เงิน pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เล่นเกมแคนดี้ได้เงิน pantip【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6782",
+  "description": "เล่นเกมแคนดี้ได้เงิน pantip【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เล่นเกมแคนดี้ได้เงิน pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
