@@ -1,12 +1,12 @@
 {
-    "name": "8c3089b0aed6cd1a61365873ac074839",
-    "theme": "syntax",
-    "version": "2.0.7671",
-    "description": "ไก่ชนออนไลน์ 6 ล้อ ✔ แจ็กพอตแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ 6 ล้อ",
+  "theme": "syntax",
+  "version": "2.0.7671",
+  "description": "ไก่ชนออนไลน์ 6 ล้อ ✔ แจ็กพอตแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
