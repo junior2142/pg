@@ -1,9 +1,11 @@
 {
-    "name": "cffb53a01a09d58c41710c00bc375d4d",
+    "name": "c8043e78d80008783bf935202a783755",
     "theme": "syntax",
     "version": "2.0.7776",
-    "description": "ไก่ชนออนไลน์ ตอนนี้ ✔ รางวัลใหญ่แตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [],
+    "description": "ดูไก่ชนออนไลน์สด ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+    "keywords": [
+        "ดูไก่ชนออนไลน์สด"
+    ],
     "repository": "https://github.com/morgra168168/pg",
     "license": "MIT",
     "engines": {
