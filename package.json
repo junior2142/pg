@@ -1,14 +1,14 @@
 {
-    "name": "b248ca003ff1b84cbaac4968d419b022",
-    "theme": "syntax",
-    "version": "2.0.7699",
-    "description": "เว็บดูไก่ชน ออนไลน์ ✔ โบนัสแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เว็บดูไก่ชน ออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บดูไก่ชน ออนไลน์",
+  "theme": "syntax",
+  "version": "2.0.7699",
+  "description": "เว็บดูไก่ชน ออนไลน์ ✔ โบนัสแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เว็บดูไก่ชน ออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
