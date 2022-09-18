@@ -1,12 +1,12 @@
 {
-  "name": "ไก่ชน ออนไลน์ 0",
-  "theme": "syntax",
-  "version": "2.0.7708",
-  "description": "ไก่ชน ออนไลน์ 0 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "b0d64727439ca00adda5650d2ac9628b",
+    "theme": "syntax",
+    "version": "2.0.7708",
+    "description": "ไก่ชนออนไลน์ 037 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+    "keywords": [],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
