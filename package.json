@@ -1,14 +1,15 @@
 {
-  "name": "สล็อตเว็บตรง แนะนําเว็บสล็อต เว็บตรง",
-  "theme": "syntax",
-  "version": "2.0.7552",
-  "description": "สล็อตเว็บตรง แนะนําเว็บสล็อต เว็บตรง ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
-  "keywords": [
-    "แนะนําเว็บสล็อต เว็บตรง"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "9cc62f0675603209bc6c256a7bf30f06",
+    "theme": "syntax",
+    "version": "2.0.7552",
+    "description": "สล็อตเว็บตรง แนะนําเว็บสล็อต pantip ✔ แจ็กพอตแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+    "keywords": [
+        "แนะนําเว็บสล็อต pantip",
+        "แนะนํา เว็บ slot pantip"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
