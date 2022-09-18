@@ -1,14 +1,14 @@
 {
-    "name": "c5c8a34f0e249c7c4126660faa26307b",
-    "theme": "syntax",
-    "version": "2.0.6556",
-    "description": "เกมตกปลา pc 2021【คูปอง 1ufabet】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เกมตกปลา pc 2021"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมตกปลา pc 2021【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6556",
+  "description": "เกมตกปลา pc 2021【คูปอง 1ufabet】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เกมตกปลา pc 2021"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
