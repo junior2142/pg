@@ -1,12 +1,14 @@
 {
-  "name": "ไก่ชนออนไลน์ ฝรั่งเศส",
-  "theme": "syntax",
-  "version": "2.0.7766",
-  "description": "ไก่ชนออนไลน์ ฝรั่งเศส ✔ โบนัสแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "70aef1f0ffa28f9ffe63d20b5f12cbc3",
+    "theme": "syntax",
+    "version": "2.0.7766",
+    "description": "ผลไก่ชนออนไลน์ ✔ แจ็กพอตแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+    "keywords": [
+        "ผลไก่ชนออนไลน์"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
