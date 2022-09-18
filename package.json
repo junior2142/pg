@@ -1,12 +1,12 @@
 {
-    "name": "803d242662dc675fed2c7afdaa2aec1a",
-    "theme": "syntax",
-    "version": "2.0.7801",
-    "description": "ไก่ชนออนไลน์ ณ ระนอง ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": "ไก่ชนออนไลน์ ณ ระนอง",
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ ณ ระนอง",
+  "theme": "syntax",
+  "version": "2.0.7801",
+  "description": "ไก่ชนออนไลน์ ณ ระนอง ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": "ไก่ชนออนไลน์ ณ ระนอง",
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
