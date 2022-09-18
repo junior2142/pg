@@ -1,14 +1,14 @@
 {
-    "name": "f9313a4c3209a7e89b7fe707e482e749",
-    "theme": "syntax",
-    "version": "2.0.6768",
-    "description": "หาเงิน ออนไลน์ จ่ายจริง ทาง paypal【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "หาเงิน ออนไลน์ จ่ายจริง ทาง paypal"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "หาเงิน ออนไลน์ จ่ายจริง ทาง paypal【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6768",
+  "description": "หาเงิน ออนไลน์ จ่ายจริง ทาง paypal【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "หาเงิน ออนไลน์ จ่ายจริง ทาง paypal"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
