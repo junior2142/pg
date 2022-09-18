@@ -1,14 +1,14 @@
 {
-  "name": "เกมไพ่ 2 คน【เว็บ สล็อต ออนไลน์ อันดับ 1】",
-  "theme": "syntax",
-  "version": "2.0.6215",
-  "description": "เกมไพ่ 2 คน【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-  "keywords": [
-    "เกมไพ่ 2 คน"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "b20e830372c3205d623f95a7aef83ffe",
+    "theme": "syntax",
+    "version": "2.0.6215",
+    "description": "เกมแบล็คแจ็ค y8【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลใหญ่แตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+    "keywords": [
+        "เกมแบล็คแจ็ค y8"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
