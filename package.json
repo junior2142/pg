@@ -1,15 +1,15 @@
 {
-    "name": "984d72640cda3407ac30fbb35b4a7482",
-    "theme": "syntax",
-    "version": "2.0.7292",
-    "description": "puss888 เข้าสู่ระบบ【คูปอง 1ufabet】 ✔ แจ็กพอตแตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-    "keywords": [
-        "puss888 เข้าสู่ระบบ",
-        "puss888 เข้าสู่ระบบ android"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "puss888 เข้าสู่ระบบ【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.7292",
+  "description": "puss888 เข้าสู่ระบบ【คูปอง 1ufabet】 ✔ แจ็กพอตแตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+  "keywords": [
+    "puss888 เข้าสู่ระบบ",
+    "puss888 เข้าสู่ระบบ android"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
