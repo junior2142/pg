@@ -1,23 +1,23 @@
 {
-    "name": "a558fa0fe03ca5d64aec8c63ec03a6bc",
-    "theme": "syntax",
-    "version": "2.0.6212",
-    "description": "Black Jack manga【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "black jack manga",
-        "black jack manga online",
-        "black jack manga read",
-        "black jack manga wiki",
-        "black jack manga ending",
-        "black jack manga mal",
-        "black jack manga volumes",
-        "black jack manga chapter 1",
-        "black jack manga pdf",
-        "black jack manga raw"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "Black Jack manga【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6212",
+  "description": "Black Jack manga【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "black jack manga",
+    "black jack manga online",
+    "black jack manga read",
+    "black jack manga wiki",
+    "black jack manga ending",
+    "black jack manga mal",
+    "black jack manga volumes",
+    "black jack manga chapter 1",
+    "black jack manga pdf",
+    "black jack manga raw"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
