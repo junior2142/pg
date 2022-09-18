@@ -1,23 +1,23 @@
 {
-    "name": "a5fdc296f0572421d8f260ae19963587",
-    "theme": "syntax",
-    "version": "2.0.6238",
-    "description": "King Cup เกม【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "king cup เกม",
-        "king cup game",
-        "king cup game rules",
-        "king's cup game",
-        "kings cup game online",
-        "king cups game",
-        "kings cup game drinking",
-        "king cup game luật",
-        "king cup game online",
-        "kings cup game app"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "King Cup เกม【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6238",
+  "description": "King Cup เกม【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "king cup เกม",
+    "king cup game",
+    "king cup game rules",
+    "king's cup game",
+    "kings cup game online",
+    "king cups game",
+    "kings cup game drinking",
+    "king cup game luật",
+    "king cup game online",
+    "kings cup game app"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
