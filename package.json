@@ -1,15 +1,15 @@
 {
-    "name": "ab5e342adf4d4acf84918a13731b8821",
-    "theme": "syntax",
-    "version": "2.0.6470",
-    "description": "เว็บ สล็อต ยิงปลา【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เว็บ สล็อต ยิงปลา",
-        "สมัคร เว็บ สล็อต ยิง ปลา ได้ ฟรี โบนัส"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บ สล็อต ยิงปลา【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6470",
+  "description": "เว็บ สล็อต ยิงปลา【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เว็บ สล็อต ยิงปลา",
+    "สมัคร เว็บ สล็อต ยิง ปลา ได้ ฟรี โบนัส"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
