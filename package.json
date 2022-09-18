@@ -1,23 +1,23 @@
 {
-    "name": "a40d48238942dc36f55ee42d5cf9469c",
-    "theme": "syntax",
-    "version": "2.0.6274",
-    "description": "Spider Solitaire download for PC【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "spider solitaire download for pc",
-        "spider solitaire download for pc old version",
-        "spider solitaire download for pc free",
-        "spider solitaire download for windows 7",
-        "spider solitaire download for windows 10",
-        "spider solitaire download for windows xp",
-        "spider solitaire game download for pc",
-        "spider solitaire download for pc windows 7",
-        "spider solitaire download for pc windows 10",
-        "spider solitaire offline free download for pc"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "Spider Solitaire download for PC【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6274",
+  "description": "Spider Solitaire download for PC【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "spider solitaire download for pc",
+    "spider solitaire download for pc old version",
+    "spider solitaire download for pc free",
+    "spider solitaire download for windows 7",
+    "spider solitaire download for windows 10",
+    "spider solitaire download for windows xp",
+    "spider solitaire game download for pc",
+    "spider solitaire download for pc windows 7",
+    "spider solitaire download for pc windows 10",
+    "spider solitaire offline free download for pc"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
