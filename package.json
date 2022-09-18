@@ -1,12 +1,15 @@
 {
-  "name": "เทคนิค การเล่น Solitaire【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.6195",
-  "description": "เทคนิค การเล่น Solitaire【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "3d6ac761dcd0ae8e2d6be0b7605602b9",
+    "theme": "syntax",
+    "version": "2.0.6195",
+    "description": "เกมไพ่วงเหล้า【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+    "keywords": [
+        "เกมไพ่วงเหล้า",
+        "เกมไพ่วงเหล้า ios"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
