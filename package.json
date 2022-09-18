@@ -1,14 +1,14 @@
 {
-    "name": "f2c456f6ebf035f9faac559bd61e2f4a",
-    "theme": "syntax",
-    "version": "2.0.7417",
-    "description": "สล็อตเว็บตรง สล็อตเว็บตรง แตกง่าย 2022 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-    "keywords": [
-        "สล็อตเว็บตรงแตกง่าย 2022"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง สล็อตเว็บตรง แตกง่าย 2022",
+  "theme": "syntax",
+  "version": "2.0.7417",
+  "description": "สล็อตเว็บตรง สล็อตเว็บตรง แตกง่าย 2022 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+  "keywords": [
+    "สล็อตเว็บตรงแตกง่าย 2022"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
