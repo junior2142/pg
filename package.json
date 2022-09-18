@@ -1,14 +1,14 @@
 {
-    "name": "6d2866c757e7397c5a2155042b308270",
-    "theme": "syntax",
-    "version": "2.0.6430",
-    "description": "เทคนิค เกมยิงปลา pantip【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [
-        "เทคนิค เกมยิงปลา pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เทคนิค เกมยิงปลา pantip【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6430",
+  "description": "เทคนิค เกมยิงปลา pantip【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+  "keywords": [
+    "เทคนิค เกมยิงปลา pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
