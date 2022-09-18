@@ -1,14 +1,14 @@
 {
-    "name": "c9e2a774b82745d5d0862785708f3fc9",
-    "theme": "syntax",
-    "version": "2.0.7493",
-    "description": "สล็อตเว็บตรง เล่นสล็อต ครั้งแรก pantip ✔ รางวัลใหญ่แตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "เล่นสล็อต ครั้งแรก pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง เล่นสล็อต ครั้งแรก pantip",
+  "theme": "syntax",
+  "version": "2.0.7493",
+  "description": "สล็อตเว็บตรง เล่นสล็อต ครั้งแรก pantip ✔ รางวัลใหญ่แตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "เล่นสล็อต ครั้งแรก pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
