@@ -1,14 +1,15 @@
 {
-  "name": "เล่นเกมแคนดี้ได้เงิน pantip【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.6783",
-  "description": "เล่นเกมแคนดี้ได้เงิน pantip【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
-  "keywords": [
-    "เล่นเกมแคนดี้ได้เงิน pantip"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "c45675ae3d8ad6f1e3a8bf961d873ad9",
+    "theme": "syntax",
+    "version": "2.0.6783",
+    "description": "เกม nft ไม่ต้องลงทุน【pg slot 1 บาท】 ✔ โบนัสแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+    "keywords": [
+        "เกม nft ไม่ต้องลงทุน",
+        "เกม nft ไม่ต้องลงทุน มือถือ"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
