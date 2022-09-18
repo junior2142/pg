@@ -1,14 +1,14 @@
 {
-    "name": "25ebabb02a0a961046dad6c64ea0c4fa",
-    "theme": "syntax",
-    "version": "2.0.6364",
-    "description": "ยิงปลา เงินฟรี【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ โบนัสแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "ยิงปลา เงินฟรี"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ยิงปลา เงินฟรี【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6364",
+  "description": "ยิงปลา เงินฟรี【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ โบนัสแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "ยิงปลา เงินฟรี"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
