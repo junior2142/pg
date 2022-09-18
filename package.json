@@ -1,14 +1,14 @@
 {
-    "name": "c3e9b5faa9fb080cd61d4c58337d6c85",
-    "theme": "syntax",
-    "version": "2.0.6944",
-    "description": "โปรสล็อตเว็บตรง【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "โปรสล็อตเว็บตรง"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "โปรสล็อตเว็บตรง【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6944",
+  "description": "โปรสล็อตเว็บตรง【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "โปรสล็อตเว็บตรง"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
