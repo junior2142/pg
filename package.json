@@ -1,14 +1,14 @@
 {
-    "name": "9d19967aad9e54d81793398c07f923f3",
-    "theme": "syntax",
-    "version": "2.0.7893",
-    "description": "scg9 บาคาร่า【คูปอง แจกเครดิตฟรี】 ✔ เกม  Casino Online เว็บคาสิโน ไม่ผ่านพ่อค้าคนกลาง นิยมที่สุดในไทย ฝากเดิมพันแบบไม่มีขั้นต่ำ",
-    "keywords": [
-        "scg9 บาคาร่า"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "scg9 บาคาร่า【คูปอง แจกเครดิตฟรี】",
+  "theme": "syntax",
+  "version": "2.0.7893",
+  "description": "scg9 บาคาร่า【คูปอง แจกเครดิตฟรี】 ✔ เกม  Casino Online เว็บคาสิโน ไม่ผ่านพ่อค้าคนกลาง นิยมที่สุดในไทย ฝากเดิมพันแบบไม่มีขั้นต่ำ",
+  "keywords": [
+    "scg9 บาคาร่า"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
