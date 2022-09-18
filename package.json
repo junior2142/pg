@@ -1,14 +1,14 @@
 {
-    "name": "ae148127913819a0ce73f02cc4ffe4aa",
-    "theme": "syntax",
-    "version": "2.0.6280",
-    "description": "โหลดเกมสลาฟ【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "โหลดเกมสลาฟ"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "โหลดเกมสลาฟ【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6280",
+  "description": "โหลดเกมสลาฟ【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "โหลดเกมสลาฟ"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
