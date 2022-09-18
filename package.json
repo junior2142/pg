@@ -1,12 +1,12 @@
 {
-    "name": "c4ae2e8ed003741caaaedec59452c96c",
-    "theme": "syntax",
-    "version": "2.0.7681",
-    "description": "ไก่ชนออนไลน์ 5 ดาว ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ 5 ดาว",
+  "theme": "syntax",
+  "version": "2.0.7681",
+  "description": "ไก่ชนออนไลน์ 5 ดาว ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
