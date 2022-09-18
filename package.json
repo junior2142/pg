@@ -1,15 +1,15 @@
 {
-    "name": "f788b653386bfc8e912d8f6ac9c8d55c",
-    "theme": "syntax",
-    "version": "2.0.6666",
-    "description": "เว็บ ได้เงินจริง pantip【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "เว็บ ได้เงินจริง pantip",
-        "เว็บ ทํา แบบสอบถาม ได้ เงิน จริง pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บ ได้เงินจริง pantip【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6666",
+  "description": "เว็บ ได้เงินจริง pantip【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "เว็บ ได้เงินจริง pantip",
+    "เว็บ ทํา แบบสอบถาม ได้ เงิน จริง pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
