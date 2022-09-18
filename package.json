@@ -1,12 +1,12 @@
 {
-    "name": "36960e387d035f7f8120f1aa884de0ec",
-    "theme": "syntax",
-    "version": "2.0.7719",
-    "description": "ไก่ชนออนไลน์ จุฬา ✔ รางวัลบิ๊กวินแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ จุฬา",
+  "theme": "syntax",
+  "version": "2.0.7719",
+  "description": "ไก่ชนออนไลน์ จุฬา ✔ รางวัลบิ๊กวินแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
