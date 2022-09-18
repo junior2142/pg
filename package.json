@@ -1,14 +1,14 @@
 {
-    "name": "ad2e952f7be8b9976dd4e560166959b5",
-    "theme": "syntax",
-    "version": "2.0.6488",
-    "description": "มารวย99 pc【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "มารวย99 pc"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "มารวย99 pc【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6488",
+  "description": "มารวย99 pc【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "มารวย99 pc"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
