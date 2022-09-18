@@ -1,15 +1,15 @@
 {
-    "name": "73c5bfb4357dace628f3e85cf8f68a7f",
-    "theme": "syntax",
-    "version": "2.0.7653",
-    "description": "สล็อตเว็บตรง รวมเว็บสล็อต 777 ✔ โบนัสแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "รวมเว็บสล็อต 777",
-        "รวมเว็บสล็อต 7777"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง รวมเว็บสล็อต 777",
+  "theme": "syntax",
+  "version": "2.0.7653",
+  "description": "สล็อตเว็บตรง รวมเว็บสล็อต 777 ✔ โบนัสแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "รวมเว็บสล็อต 777",
+    "รวมเว็บสล็อต 7777"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
