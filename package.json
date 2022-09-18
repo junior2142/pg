@@ -1,14 +1,14 @@
 {
-    "name": "5959218e1b4ab58b470fc2aff171940f",
-    "theme": "syntax",
-    "version": "2.0.6856",
-    "description": "เกม nft น่าสนใจ【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เกม nft น่าสนใจ"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกม nft น่าสนใจ【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6856",
+  "description": "เกม nft น่าสนใจ【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เกม nft น่าสนใจ"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
