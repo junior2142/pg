@@ -1,9 +1,11 @@
 {
-    "name": "6717beed42fa5b650de24e8ddccf26fa",
+    "name": "af6e874861587847a8487f497475d80d",
     "theme": "syntax",
     "version": "2.0.7776",
-    "description": "ไก่ชนออนไลน์ ฌาปนกิจ ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [],
+    "description": "ซื้อขายไก่ชนออนไลน์ ✔ แจ็กพอตแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+    "keywords": [
+        "ซื้อขายไก่ชนออนไลน์"
+    ],
     "repository": "https://github.com/morgra168168/pg",
     "license": "MIT",
     "engines": {
