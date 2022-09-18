@@ -1,12 +1,12 @@
 {
-    "name": "a32f2b03f706d0abbcece569aee77e7e",
-    "theme": "syntax",
-    "version": "2.0.6692",
-    "description": "เกม NFT ได้เงินจริง ไหม Pantip【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกม NFT ได้เงินจริง ไหม Pantip【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6692",
+  "description": "เกม NFT ได้เงินจริง ไหม Pantip【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
