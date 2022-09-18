@@ -1,14 +1,14 @@
 {
-    "name": "12b5a17dfdd569afb25ae7ac3f94d6cc",
-    "theme": "syntax",
-    "version": "2.0.6154",
-    "description": "777 ภาษาอังกฤษ【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ แจ็กพอตแตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-    "keywords": [
-        "777 ภาษาอังกฤษ"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "777 ภาษาอังกฤษ【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6154",
+  "description": "777 ภาษาอังกฤษ【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ แจ็กพอตแตกบ่อย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+  "keywords": [
+    "777 ภาษาอังกฤษ"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
