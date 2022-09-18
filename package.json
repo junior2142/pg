@@ -1,12 +1,12 @@
 {
-  "name": "ไก่ชนออนไลน์ 70 ล้าน",
-  "theme": "syntax",
-  "version": "2.0.7734",
-  "description": "ไก่ชนออนไลน์ 70 ล้าน ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "4fe54aceeec8551f54005f5c2fc249e3",
+    "theme": "syntax",
+    "version": "2.0.7734",
+    "description": "ไก่ชนออนไลน์ ละคร ✔ แจ็กพอตแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+    "keywords": [],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
