@@ -1,12 +1,12 @@
 {
-  "name": "ไก่ชนออนไลน์ 100 ล้าน",
-  "theme": "syntax",
-  "version": "2.0.7704",
-  "description": "ไก่ชนออนไลน์ 100 ล้าน ✔ รางวัลใหญ่แตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "d316d7127ca3fcd816150f5bf112549a",
+    "theme": "syntax",
+    "version": "2.0.7704",
+    "description": "ไก่ชนออนไลน์ 1000 ✔ แจ็กพอตแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+    "keywords": [],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
