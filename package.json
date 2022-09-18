@@ -1,14 +1,14 @@
 {
-    "name": "0f92d3c2cf5595ebb6c98ce3ae61fa70",
-    "theme": "syntax",
-    "version": "2.0.6720",
-    "description": "เกมหาเงินในโทรศัพท์【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "เกมหาเงินในโทรศัพท์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมหาเงินในโทรศัพท์【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6720",
+  "description": "เกมหาเงินในโทรศัพท์【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "เกมหาเงินในโทรศัพท์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
