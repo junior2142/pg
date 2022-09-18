@@ -1,14 +1,14 @@
 {
-    "name": "09e22d69461273c71d665904c0409397",
-    "theme": "syntax",
-    "version": "2.0.6214",
-    "description": "เกมไพ่ 2 คน【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "เกมไพ่ 2 คน"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมไพ่ 2 คน【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6214",
+  "description": "เกมไพ่ 2 คน【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "เกมไพ่ 2 คน"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
