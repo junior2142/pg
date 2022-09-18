@@ -1,14 +1,14 @@
 {
-    "name": "f1e04b69ca1f728df633262c7ff06cb7",
-    "theme": "syntax",
-    "version": "2.0.6572",
-    "description": "ทดลองเล่น ยิงปลา jill【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "ทดลองเล่น ยิงปลา jill"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ทดลองเล่น ยิงปลา jill【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6572",
+  "description": "ทดลองเล่น ยิงปลา jill【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "ทดลองเล่น ยิงปลา jill"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
