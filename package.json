@@ -1,14 +1,14 @@
 {
-    "name": "0a8c8a3b7a78423b82dfce0b4ca390e0",
-    "theme": "syntax",
-    "version": "2.0.6664",
-    "description": "เกมส์ ฟาร์ม ได้เงินจริง pantip【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เกมส์ ฟาร์ม ได้เงินจริง pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมส์ ฟาร์ม ได้เงินจริง pantip【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6664",
+  "description": "เกมส์ ฟาร์ม ได้เงินจริง pantip【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เกมส์ ฟาร์ม ได้เงินจริง pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
