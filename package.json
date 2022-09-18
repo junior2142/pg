@@ -1,14 +1,14 @@
 {
-    "name": "524d013d2f0885ea17e9d47cd022636e",
-    "theme": "syntax",
-    "version": "2.0.7409",
-    "description": "สล็อตเว็บตรง เว็บตรง 100 เครดิตฟรี ✔ แจ็กพอตแตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "เว็บตรง 100 เครดิตฟรี"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง เว็บตรง 100 เครดิตฟรี",
+  "theme": "syntax",
+  "version": "2.0.7409",
+  "description": "สล็อตเว็บตรง เว็บตรง 100 เครดิตฟรี ✔ แจ็กพอตแตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "เว็บตรง 100 เครดิตฟรี"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
