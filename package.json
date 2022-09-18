@@ -1,23 +1,14 @@
 {
-  "name": "เรียงไพ่【คูปอง 1ufabet】",
-  "theme": "syntax",
-  "version": "2.0.6183",
-  "description": "เรียงไพ่【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-  "keywords": [
-    "เรียงไพ่",
-    "เรียงไพ่ใหญ่",
-    "เรียงไพ่ยิปซี",
-    "เรียงไพ่จากน้อยไปมาก",
-    "เรียงไพ่สลาฟ",
-    "เรียงไพ่ poker",
-    "เรียงไพ่ 10 ใบ",
-    "เรียงไพ่เก้าเก",
-    "เรียงไพ่แคง",
-    "เรียงไพ่แมงมุม"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "e3bda65cc2c3dff3106779c160a6c8ab",
+    "theme": "syntax",
+    "version": "2.0.6183",
+    "description": "เล่นเกม Spider Solitaire ฟรี【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลใหญ่แตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
+    "keywords": [
+        "เล่นเกม spider solitaire ฟรี"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
