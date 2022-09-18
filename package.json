@@ -1,23 +1,23 @@
 {
-    "name": "6135b310c11441f90382bfa8f379a63e",
-    "theme": "syntax",
-    "version": "2.0.6506",
-    "description": "เกม Fishing【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "เกม fishing planet",
-        "เกม fishing",
-        "เกม fishing strike",
-        "เกม fishing god",
-        "เกม fishing war",
-        "เกม fishing for all",
-        "เกม fishing town",
-        "game fishing",
-        "game fishing go",
-        "game fishing pc"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกม Fishing【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6506",
+  "description": "เกม Fishing【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "เกม fishing planet",
+    "เกม fishing",
+    "เกม fishing strike",
+    "เกม fishing god",
+    "เกม fishing war",
+    "เกม fishing for all",
+    "เกม fishing town",
+    "game fishing",
+    "game fishing go",
+    "game fishing pc"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
