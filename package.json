@@ -1,14 +1,14 @@
 {
-    "name": "041de6c8796af8b844219be82f4e6a2f",
-    "theme": "syntax",
-    "version": "2.0.7403",
-    "description": "สล็อตเว็บตรง เว็บตรง100 ufa ✔ โบนัสแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "เว็บตรง100 ufa"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง เว็บตรง100 ufa",
+  "theme": "syntax",
+  "version": "2.0.7403",
+  "description": "สล็อตเว็บตรง เว็บตรง100 ufa ✔ โบนัสแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "เว็บตรง100 ufa"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
