@@ -1,23 +1,23 @@
 {
-    "name": "4dab7b3e0c6d8a219af656c84c515479",
-    "theme": "syntax",
-    "version": "2.0.7873",
-    "description": "บาคาร่า sa【ขั้นต่ำ 1 บาท】 ✔ เกมคาสิโน ONLINE เว็บบริษัทแม่ ไม่ผ่านนายหน้า ดีที่สุดในเอเชีย ฝากเครดิตแบบไม่มีขั้นต่ำ",
-    "keywords": [
-        "บาคาร่า sa gaming",
-        "บาคาร่า saclub77",
-        "บาคาร่า sa350",
-        "บาคาร่า sa ทดลอง",
-        "บาคาร่า sagame",
-        "บาคาร่า sa88",
-        "บาคาร่า sagameclub88",
-        "บาคาร่า sagame168th.com",
-        "บาคาร่า sa gaming 66",
-        "บาคาร่า saclub7"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "บาคาร่า sa【ขั้นต่ำ 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.7873",
+  "description": "บาคาร่า sa【ขั้นต่ำ 1 บาท】 ✔ เกมคาสิโน ONLINE เว็บบริษัทแม่ ไม่ผ่านนายหน้า ดีที่สุดในเอเชีย ฝากเครดิตแบบไม่มีขั้นต่ำ",
+  "keywords": [
+    "บาคาร่า sa gaming",
+    "บาคาร่า saclub77",
+    "บาคาร่า sa350",
+    "บาคาร่า sa ทดลอง",
+    "บาคาร่า sagame",
+    "บาคาร่า sa88",
+    "บาคาร่า sagameclub88",
+    "บาคาร่า sagame168th.com",
+    "บาคาร่า sa gaming 66",
+    "บาคาร่า saclub7"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
