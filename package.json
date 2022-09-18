@@ -1,14 +1,14 @@
 {
-    "name": "3685eff4b0f7e9f75783e58a532c9010",
-    "theme": "syntax",
-    "version": "2.0.7897",
-    "description": "บาคาร่า5บาท【คูปอง แจกเครดิตฟรี】 ✔ เกม SLOT ONLINE  เว็บพนันออนไลน์ ไม่ผ่านพ่อค้าคนกลาง ดีที่สุด ฝากถอนเครดิตขขั้นต่ำ",
-    "keywords": [
-        "บาคาร่า5บาท"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "บาคาร่า5บาท【คูปอง แจกเครดิตฟรี】",
+  "theme": "syntax",
+  "version": "2.0.7897",
+  "description": "บาคาร่า5บาท【คูปอง แจกเครดิตฟรี】 ✔ เกม SLOT ONLINE  เว็บพนันออนไลน์ ไม่ผ่านพ่อค้าคนกลาง ดีที่สุด ฝากถอนเครดิตขขั้นต่ำ",
+  "keywords": [
+    "บาคาร่า5บาท"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
