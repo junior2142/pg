@@ -1,17 +1,17 @@
 {
-    "name": "034b7e8f2690f152f022d28ddef053d4",
-    "theme": "syntax",
-    "version": "2.0.6640",
-    "description": "แอพหาเงิน เข้า wallet ได้จริง【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "แอพหาเงิน เข้า wallet ได้จริง",
-        "แอพหาเงิน เข้า wallet ได้จริง2022",
-        "แอพหาเงิน เข้า wallet ได้จริง pantip",
-        "แอพหาเงิน เข้า wallet ได้จริง ios"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "แอพหาเงิน เข้า wallet ได้จริง【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6640",
+  "description": "แอพหาเงิน เข้า wallet ได้จริง【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "แอพหาเงิน เข้า wallet ได้จริง",
+    "แอพหาเงิน เข้า wallet ได้จริง2022",
+    "แอพหาเงิน เข้า wallet ได้จริง pantip",
+    "แอพหาเงิน เข้า wallet ได้จริง ios"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
