@@ -1,14 +1,14 @@
 {
-    "name": "d05595e7f5d309817839b4010af1def1",
-    "theme": "syntax",
-    "version": "2.0.6286",
-    "description": "ไพ่สลาฟ โบย่า【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [
-        "ไพ่สลาฟ โบย่า"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไพ่สลาฟ โบย่า【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6286",
+  "description": "ไพ่สลาฟ โบย่า【คูปอง 1ufabet】 ✔ รางวัลใหญ่แตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+  "keywords": [
+    "ไพ่สลาฟ โบย่า"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
