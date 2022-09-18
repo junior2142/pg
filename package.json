@@ -1,15 +1,15 @@
 {
-    "name": "7c9bd92aa9ca10c57eac4d8f438a4710",
-    "theme": "syntax",
-    "version": "2.0.6256",
-    "description": "Game ไพ่ Windows 7【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลบิ๊กวินแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "game ไพ่ windows 7",
-        "เกมส์ ไพ่ windows 7"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "Game ไพ่ Windows 7【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6256",
+  "description": "Game ไพ่ Windows 7【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลบิ๊กวินแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "game ไพ่ windows 7",
+    "เกมส์ ไพ่ windows 7"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
