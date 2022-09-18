@@ -1,12 +1,12 @@
 {
-    "name": "6646474b2667deea09c203a7879638e2",
-    "theme": "syntax",
-    "version": "2.0.7795",
-    "description": "ไก่ชนออนไลน์ ธัญญ่า ✔ โบนัสแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": "ไก่ชนออนไลน์ ธัญญ่า",
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ ธัญญ่า",
+  "theme": "syntax",
+  "version": "2.0.7795",
+  "description": "ไก่ชนออนไลน์ ธัญญ่า ✔ โบนัสแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": "ไก่ชนออนไลน์ ธัญญ่า",
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
