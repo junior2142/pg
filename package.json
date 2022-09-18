@@ -1,14 +1,14 @@
 {
-    "name": "74000349dd501bb625595cda72ceaf8f",
-    "theme": "syntax",
-    "version": "2.0.7637",
-    "description": "สล็อตเว็บตรง สล็อต777คาสิโนออนไลน์ ✔ โบนัสแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [
-        "สล็อต777คาสิโนออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง สล็อต777คาสิโนออนไลน์",
+  "theme": "syntax",
+  "version": "2.0.7637",
+  "description": "สล็อตเว็บตรง สล็อต777คาสิโนออนไลน์ ✔ โบนัสแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+  "keywords": [
+    "สล็อต777คาสิโนออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
