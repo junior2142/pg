@@ -1,14 +1,14 @@
 {
-    "name": "827363f70ba142eec1d84b13b879ab68",
-    "theme": "syntax",
-    "version": "2.0.6870",
-    "description": "Zbing z. ผี Roblox【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลใหญ่แตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "zbing z. ผี roblox"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "Zbing z. ผี Roblox【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6870",
+  "description": "Zbing z. ผี Roblox【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ รางวัลใหญ่แตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "zbing z. ผี roblox"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
