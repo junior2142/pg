@@ -1,20 +1,15 @@
 {
-  "name": "ดาวน์โหลด เกมส์ Solitaire ฟรี【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.6253",
-  "description": "ดาวน์โหลด เกมส์ Solitaire ฟรี【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
-  "keywords": [
-    "ดาวน์โหลด เกมส์ solitaire ฟรี",
-    "เล่น เกม solitaire ฟรี",
-    "download solitaire games free",
-    "download games spider solitaire free",
-    "download solitaire games free full version",
-    "download microsoft games solitaire free",
-    "games download free solitaire standard"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "cefc026281ab571b45e3fe89e626ed85",
+    "theme": "syntax",
+    "version": "2.0.6253",
+    "description": "เกมส์เรียงไพ่แมงมุม【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+    "keywords": [
+        "เกมเรียงไพ่แมงมุม",
+        "เกมส์เรียงไพ่แมงมุม เหมือนคอม"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
