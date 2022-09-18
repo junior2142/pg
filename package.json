@@ -1,12 +1,12 @@
 {
-  "name": "ไก่ชนออนไลน์ ประวัติ",
-  "theme": "syntax",
-  "version": "2.0.7776",
-  "description": "ไก่ชนออนไลน์ ประวัติ ✔ แจ็กพอตแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "33d7ce55c10a4f71646ded7db7259ea2",
+    "theme": "syntax",
+    "version": "2.0.7776",
+    "description": "ไก่ชนออนไลน์ ปันผล ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+    "keywords": [],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
