@@ -1,12 +1,12 @@
 {
-    "name": "61e00a8cf476dfd69543c0c9b0e9698c",
-    "theme": "syntax",
-    "version": "2.0.7793",
-    "description": "ไก่ชนออนไลน์ ธนาคาร ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": "ไก่ชนออนไลน์ ธนาคาร",
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ ธนาคาร",
+  "theme": "syntax",
+  "version": "2.0.7793",
+  "description": "ไก่ชนออนไลน์ ธนาคาร ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": "ไก่ชนออนไลน์ ธนาคาร",
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
