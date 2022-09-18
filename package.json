@@ -1,14 +1,14 @@
 {
-    "name": "fd62f32772ba6187be9a78584a77f7b2",
-    "theme": "syntax",
-    "version": "2.0.6426",
-    "description": "ยิงปลาให้ได้เงินหมื่น【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "ยิงปลาให้ได้เงินหมื่น"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ยิงปลาให้ได้เงินหมื่น【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6426",
+  "description": "ยิงปลาให้ได้เงินหมื่น【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "ยิงปลาให้ได้เงินหมื่น"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
