@@ -1,14 +1,14 @@
 {
-    "name": "625bb88cb80e4f4a37638741452c7879",
-    "theme": "syntax",
-    "version": "2.0.7423",
-    "description": "สล็อตเว็บตรง สล็อตเว็บตรง แตกง่าย gtrbet888 ✔ แจ็กพอตแตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "สล็อตเว็บตรง แตกง่าย gtrbet888"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง สล็อตเว็บตรง แตกง่าย gtrbet888",
+  "theme": "syntax",
+  "version": "2.0.7423",
+  "description": "สล็อตเว็บตรง สล็อตเว็บตรง แตกง่าย gtrbet888 ✔ แจ็กพอตแตกบ่อย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "สล็อตเว็บตรง แตกง่าย gtrbet888"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
