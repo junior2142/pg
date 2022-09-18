@@ -1,14 +1,14 @@
 {
-    "name": "f6fbc782fb88b3ba73fd69805ab63ce3",
-    "theme": "syntax",
-    "version": "2.0.6878",
-    "description": "hay day ปั้มเพชร【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "hay day ปั้มเพชร"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "hay day ปั้มเพชร【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6878",
+  "description": "hay day ปั้มเพชร【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "hay day ปั้มเพชร"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
