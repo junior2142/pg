@@ -1,14 +1,14 @@
 {
-    "name": "5d117319eff37560d067154c33ebb449",
-    "theme": "syntax",
-    "version": "2.0.7080",
-    "description": "แนะนำ เว็บสล็อตแตกง่าย 2021 pantip【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "แนะนํา เว็บสล็อตแตกง่าย 2021 pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "แนะนำ เว็บสล็อตแตกง่าย 2021 pantip【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.7080",
+  "description": "แนะนำ เว็บสล็อตแตกง่าย 2021 pantip【pg slot 1 บาท】 ✔ โบนัสแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "แนะนํา เว็บสล็อตแตกง่าย 2021 pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
