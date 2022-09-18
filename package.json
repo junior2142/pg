@@ -1,23 +1,23 @@
 {
-    "name": "50cfc4fed71a532e2eeba18bc9e4f2a8",
-    "theme": "syntax",
-    "version": "2.0.7611",
-    "description": "สล็อตเว็บตรง joker สล็อต888 ✔ รางวัลบิ๊กวินแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [
-        "joker สล็อต888",
-        "joker สล็อต888เครดิตฟรี",
-        "joker สล็อต888วอลเล็ต",
-        "joker สล็อต888v1",
-        "joker สล็อต888th",
-        "joker สล็อต888 ทดลอง",
-        "joker สล็อต888เครดิตฟรี50",
-        "joker slot 888 v1",
-        "ทดลองเล่น joker สล็อต 888",
-        "โจ๊ก เกอร์ joker สล็อต 888"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง joker สล็อต888",
+  "theme": "syntax",
+  "version": "2.0.7611",
+  "description": "สล็อตเว็บตรง joker สล็อต888 ✔ รางวัลบิ๊กวินแตกกระจาย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [
+    "joker สล็อต888",
+    "joker สล็อต888เครดิตฟรี",
+    "joker สล็อต888วอลเล็ต",
+    "joker สล็อต888v1",
+    "joker สล็อต888th",
+    "joker สล็อต888 ทดลอง",
+    "joker สล็อต888เครดิตฟรี50",
+    "joker slot 888 v1",
+    "ทดลองเล่น joker สล็อต 888",
+    "โจ๊ก เกอร์ joker สล็อต 888"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
