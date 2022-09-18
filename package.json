@@ -1,12 +1,12 @@
 {
-    "name": "f7b67ea046820279d078de75964a0173",
-    "theme": "syntax",
-    "version": "2.0.6550",
-    "description": "เกมยิงปลา cuisenaire【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมยิงปลา cuisenaire【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6550",
+  "description": "เกมยิงปลา cuisenaire【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
