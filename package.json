@@ -1,15 +1,15 @@
 {
-    "name": "e4d0b422582d8bcff6ad09eed2f819fd",
-    "theme": "syntax",
-    "version": "2.0.7124",
-    "description": "สล็อตแตกง่าย แจกจริง【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "สล็อตแตกง่าย แจกจริง",
-        "สล็อตแตกง่าย แจกจริง ล่าสุด"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตแตกง่าย แจกจริง【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.7124",
+  "description": "สล็อตแตกง่าย แจกจริง【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "สล็อตแตกง่าย แจกจริง",
+    "สล็อตแตกง่าย แจกจริง ล่าสุด"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
