@@ -1,14 +1,14 @@
 {
-    "name": "a03c787c003b53f62dc96928dbb50479",
-    "theme": "syntax",
-    "version": "2.0.6328",
-    "description": "ทดลองเล่นเกมยิงปลาฟรีpg【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-    "keywords": [
-        "ทดลองเล่นเกมยิงปลาฟรีpg"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ทดลองเล่นเกมยิงปลาฟรีpg【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6328",
+  "description": "ทดลองเล่นเกมยิงปลาฟรีpg【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+  "keywords": [
+    "ทดลองเล่นเกมยิงปลาฟรีpg"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
