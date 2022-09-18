@@ -1,14 +1,14 @@
 {
-    "name": "f093d673ce9f31821a88a878352a00e9",
-    "theme": "syntax",
-    "version": "2.0.7641",
-    "description": "สล็อตเว็บตรง สมัครสล็อต777 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "สมัครสล็อต777"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง สมัครสล็อต777",
+  "theme": "syntax",
+  "version": "2.0.7641",
+  "description": "สล็อตเว็บตรง สมัครสล็อต777 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "สมัครสล็อต777"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
