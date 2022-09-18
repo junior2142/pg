@@ -1,12 +1,12 @@
 {
-  "name": "ไก่ชนออนไลน์ น่ากลัว",
-  "theme": "syntax",
-  "version": "2.0.7786",
-  "description": "ไก่ชนออนไลน์ น่ากลัว ✔ แจ็กพอตแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-  "keywords": "ไก่ชนออนไลน์ น่ากลัว",
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "8a6a7ba95a8e989efc19e5625ed23d85",
+    "theme": "syntax",
+    "version": "2.0.7786",
+    "description": "ไก่ชนออนไลน์ นิติ ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+    "keywords": "ไก่ชนออนไลน์ นิติ",
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
