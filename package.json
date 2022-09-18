@@ -1,14 +1,14 @@
 {
-    "name": "226d55f0d00011dabe845ab698ae0e78",
-    "theme": "syntax",
-    "version": "2.0.7647",
-    "description": "สล็อตเว็บตรง สล็อต888ออนไลน์ ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "สล็อต888ออนไลน์"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง สล็อต888ออนไลน์",
+  "theme": "syntax",
+  "version": "2.0.7647",
+  "description": "สล็อตเว็บตรง สล็อต888ออนไลน์ ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "สล็อต888ออนไลน์"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
