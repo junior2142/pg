@@ -1,17 +1,17 @@
 {
-    "name": "6555fd5e0c3cd51c0922281e8e0db4c5",
-    "theme": "syntax",
-    "version": "2.0.6890",
-    "description": "สูตร Hay Day【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [
-        "สูตร hay day",
-        "สูตร hay day 2020",
-        "สูตร เกม hay day",
-        "สูตร การ เล่น hay day"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สูตร Hay Day【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6890",
+  "description": "สูตร Hay Day【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [
+    "สูตร hay day",
+    "สูตร hay day 2020",
+    "สูตร เกม hay day",
+    "สูตร การ เล่น hay day"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
