@@ -1,14 +1,14 @@
 {
-    "name": "728df7d9918174bcdd1964984b7746c6",
-    "theme": "syntax",
-    "version": "2.0.6494",
-    "description": "วิธีเล่นเกมยิงปลา pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "วิธีเล่นเกมยิงปลา pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "วิธีเล่นเกมยิงปลา pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6494",
+  "description": "วิธีเล่นเกมยิงปลา pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "วิธีเล่นเกมยิงปลา pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
