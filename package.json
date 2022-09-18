@@ -1,15 +1,15 @@
 {
-    "name": "56cda7dfb8185c79dc3174a0fe5fd284",
-    "theme": "syntax",
-    "version": "2.0.7072",
-    "description": "เล่นสล็อต ได้เงินทุกวัน【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เล่นสล็อตได้เงินทุกวัน pantip",
-        "เล่นสล็อต ได้เงินทุกวัน"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เล่นสล็อต ได้เงินทุกวัน【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.7072",
+  "description": "เล่นสล็อต ได้เงินทุกวัน【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เล่นสล็อตได้เงินทุกวัน pantip",
+    "เล่นสล็อต ได้เงินทุกวัน"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
