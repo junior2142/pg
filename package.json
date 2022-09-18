@@ -1,15 +1,18 @@
 {
-  "name": "ไก่ชน 2019",
-  "theme": "syntax",
-  "version": "2.0.7694",
-  "description": "ไก่ชน 2019 ✔ โบนัสแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-  "keywords": [
-    "ไก่ชน 2019",
-    "ไก่ชน ล่าสุด 2019"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "dfc3cfe96b2ca839966b155f46f6e16f",
+    "theme": "syntax",
+    "version": "2.0.7694",
+    "description": "ไก่ชน 2020 ✔ รางวัลบิ๊กวินแตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+    "keywords": [
+        "ไก่ชน 2020",
+        "ไก่ชน เงินล้าน 2020",
+        "รอยลาย ไก่ชน 2020",
+        "ไก่ชน ล่าสุด 2020",
+        "รับลูกฟาร์ม ไก่ชน 2020"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
