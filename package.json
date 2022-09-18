@@ -1,15 +1,15 @@
 {
-    "name": "aee2e9825233a6f4919d4939f0331ce1",
-    "theme": "syntax",
-    "version": "2.0.6690",
-    "description": "Hago ได้เงินจริงไหม【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "hago ได้เงินจริงไหม",
-        "hago ได้เงินจริงไหม pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "Hago ได้เงินจริงไหม【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6690",
+  "description": "Hago ได้เงินจริงไหม【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ รางวัลใหญ่แตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "hago ได้เงินจริงไหม",
+    "hago ได้เงินจริงไหม pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
