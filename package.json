@@ -1,15 +1,15 @@
 {
-    "name": "38a19d89f8787b5be06a2cc74ff7acbe",
-    "theme": "syntax",
-    "version": "2.0.7455",
-    "description": "สล็อตเว็บตรง เล่นสล็อต pantip ✔ แจ็กพอตแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เล่นสล็อต pantip",
-        "เทคนิค การ เล่น สล็อต pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง เล่นสล็อต pantip",
+  "theme": "syntax",
+  "version": "2.0.7455",
+  "description": "สล็อตเว็บตรง เล่นสล็อต pantip ✔ แจ็กพอตแตกบ่อย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เล่นสล็อต pantip",
+    "เทคนิค การ เล่น สล็อต pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
