@@ -1,14 +1,14 @@
 {
-    "name": "e2905ed36314b09c275bc89b6c0fec56",
-    "theme": "syntax",
-    "version": "2.0.6332",
-    "description": "เกมยิงปลาแตกง่าย【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เกมยิงปลาแตกง่าย"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมยิงปลาแตกง่าย【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6332",
+  "description": "เกมยิงปลาแตกง่าย【คูปอง 1ufabet】 ✔ โบนัสแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เกมยิงปลาแตกง่าย"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
