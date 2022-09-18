@@ -1,12 +1,12 @@
 {
-  "name": "ไก่ชนออนไลน์ น้ําหนัก",
-  "theme": "syntax",
-  "version": "2.0.7790",
-  "description": "ไก่ชนออนไลน์ น้ําหนัก ✔ แจ็กพอตแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-  "keywords": "ไก่ชนออนไลน์ น้ําหนัก",
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "b0cc44fbcb7bc6a482bbb967afe4da30",
+    "theme": "syntax",
+    "version": "2.0.7790",
+    "description": "ไก่ชนออนไลน์ ธุรกิจ ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+    "keywords": "ไก่ชนออนไลน์ ธุรกิจ",
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
