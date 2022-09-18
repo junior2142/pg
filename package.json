@@ -1,12 +1,20 @@
 {
-  "name": "ศัพท์ ดั ม มี【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.6163",
-  "description": "ศัพท์ ดั ม มี【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "e96d0b5751717236a45e4376992995b8",
+    "theme": "syntax",
+    "version": "2.0.6163",
+    "description": "ชื่อไพ่【คูปอง 1ufabet】 ✔ แจ็กพอตแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
+    "keywords": [
+        "ชื่อไพ่",
+        "ชื่อไพ่ยิปซี",
+        "ชื่อไพ่ ภาษาอังกฤษ",
+        "ชื่อไพ่ดูดวง",
+        "ชื่อไพ่ทาโรต์",
+        "ชื่อไพ่ยิปซีแต่ละใบ",
+        "ชื่อไพ่เท่ๆ"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
