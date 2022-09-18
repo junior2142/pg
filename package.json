@@ -1,12 +1,12 @@
 {
-    "name": "41bed45493e1abc1b6b1bbe21626b853",
-    "theme": "syntax",
-    "version": "2.0.7667",
-    "description": "ไก่ชนออนไลน์ 999 ✔ รางวัลใหญ่แตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ 999",
+  "theme": "syntax",
+  "version": "2.0.7667",
+  "description": "ไก่ชนออนไลน์ 999 ✔ รางวัลใหญ่แตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
