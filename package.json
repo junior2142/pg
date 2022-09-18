@@ -1,12 +1,12 @@
 {
-    "name": "b9e7d7e045812cf414b540d88fb6f7d7",
-    "theme": "syntax",
-    "version": "2.0.7797",
-    "description": "ไก่ชนออนไลน์ ธรรมดา ✔ โบนัสแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": "ไก่ชนออนไลน์ ธรรมดา",
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ ธรรมดา",
+  "theme": "syntax",
+  "version": "2.0.7797",
+  "description": "ไก่ชนออนไลน์ ธรรมดา ✔ โบนัสแตกบ่อย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": "ไก่ชนออนไลน์ ธรรมดา",
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
