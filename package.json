@@ -1,14 +1,16 @@
 {
-  "name": "สล็อตเว็บตรง เล่นสล็อต ครั้งแรก pantip",
-  "theme": "syntax",
-  "version": "2.0.7494",
-  "description": "สล็อตเว็บตรง เล่นสล็อต ครั้งแรก pantip ✔ รางวัลใหญ่แตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-  "keywords": [
-    "เล่นสล็อต ครั้งแรก pantip"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "7cafcdcac1c72ad0f7e2e75908355f08",
+    "theme": "syntax",
+    "version": "2.0.7494",
+    "description": "สล็อตเว็บตรง ปั่นสล็อต เว็บไหนดี ✔ โบนัสแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+    "keywords": [
+        "ปั่นสล็อตเว็บไหนดี",
+        "ปั่นสล็อต เว็บไหนดี pantip",
+        "ปั่นสล็อต เว็บไหนดี 2022"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
