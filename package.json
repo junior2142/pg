@@ -1,12 +1,12 @@
 {
-    "name": "319ff7609c4ceb8c6c5c4cba3d8d7da1",
-    "theme": "syntax",
-    "version": "2.0.7785",
-    "description": "ไก่ชนออนไลน์ น่ากลัว ✔ แจ็กพอตแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": "ไก่ชนออนไลน์ น่ากลัว",
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ น่ากลัว",
+  "theme": "syntax",
+  "version": "2.0.7785",
+  "description": "ไก่ชนออนไลน์ น่ากลัว ✔ แจ็กพอตแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": "ไก่ชนออนไลน์ น่ากลัว",
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
