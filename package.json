@@ -1,12 +1,12 @@
 {
-    "name": "e13dbd663c5761712cd01a44e8de5f8b",
-    "theme": "syntax",
-    "version": "2.0.6514",
-    "description": "เกม ยิงปลา UNI168【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกม ยิงปลา UNI168【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6514",
+  "description": "เกม ยิงปลา UNI168【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
