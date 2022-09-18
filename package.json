@@ -1,14 +1,14 @@
 {
-    "name": "940d9842b4076ebc89dc3a79e3bef17e",
-    "theme": "syntax",
-    "version": "2.0.7571",
-    "description": "สล็อตเว็บตรง สล็อต pg ค่ายใหญ่ ✔ แจ็กพอตแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "สล็อต pg ค่ายใหญ่"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง สล็อต pg ค่ายใหญ่",
+  "theme": "syntax",
+  "version": "2.0.7571",
+  "description": "สล็อตเว็บตรง สล็อต pg ค่ายใหญ่ ✔ แจ็กพอตแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "สล็อต pg ค่ายใหญ่"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
