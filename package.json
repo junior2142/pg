@@ -1,14 +1,14 @@
 {
-    "name": "b4899b46f750590107c51cdb1d771211",
-    "theme": "syntax",
-    "version": "2.0.6414",
-    "description": "แอพยิงปลาได้เงินจริง【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "แอพยิงปลาได้เงินจริง"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "แอพยิงปลาได้เงินจริง【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6414",
+  "description": "แอพยิงปลาได้เงินจริง【pg slot 1 บาท】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "แอพยิงปลาได้เงินจริง"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
