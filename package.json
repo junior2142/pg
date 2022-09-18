@@ -1,17 +1,17 @@
 {
-    "name": "4922fc754bc44a7f0ee1c9920a51724c",
-    "theme": "syntax",
-    "version": "2.0.7473",
-    "description": "สล็อตเว็บตรง สล็อตpgแท้ ✔ รางวัลใหญ่แตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "สล็อตpgแท้",
-        "สล็อตpgแท้ ทดลองเล่น",
-        "สล็อตpgแท้ เครดิตฟรี",
-        "สล็อตpgแท้วอลเลท"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง สล็อตpgแท้",
+  "theme": "syntax",
+  "version": "2.0.7473",
+  "description": "สล็อตเว็บตรง สล็อตpgแท้ ✔ รางวัลใหญ่แตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "สล็อตpgแท้",
+    "สล็อตpgแท้ ทดลองเล่น",
+    "สล็อตpgแท้ เครดิตฟรี",
+    "สล็อตpgแท้วอลเลท"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
