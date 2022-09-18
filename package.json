@@ -1,15 +1,17 @@
 {
-  "name": "เกมไพ่ Windows 8【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.6265",
-  "description": "เกมไพ่ Windows 8【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-  "keywords": [
-    "เกม ไพ่ windows 8",
-    "เกม ไพ่ ใน windows 8"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "3dd29d16f1006a666f7dcf900b00b01a",
+    "theme": "syntax",
+    "version": "2.0.6265",
+    "description": "ไพ่ดัมมี่ออนไลน์【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ โบนัสแตกบ่อย มั่นคงจ่ายไม่อั้นไม่มีกั๊ก ",
+    "keywords": [
+        "ไพ่ดัมมี่ออนไลน์",
+        "ไพ่ดัมมี่ออนไลน์ได้เงินจริง",
+        "ไพ่ดัมมี่ออนไลน์ ฟรี",
+        "เว็บ ไพ่ดัมมี่ออนไลน์"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
