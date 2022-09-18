@@ -1,14 +1,14 @@
 {
-    "name": "d0c5c33723747b5c452f44a65f250a37",
-    "theme": "syntax",
-    "version": "2.0.6634",
-    "description": "หาเงินเข้า wallet วันละ1000 ฟรี【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "หาเงินเข้า wallet วันละ1000 ฟรี"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "หาเงินเข้า wallet วันละ1000 ฟรี【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】",
+  "theme": "syntax",
+  "version": "2.0.6634",
+  "description": "หาเงินเข้า wallet วันละ1000 ฟรี【แอ พ สล็อต ออนไลน์ ได้ เงิน จริง】 ✔ แจ็กพอตแตกกระจาย จ่ายหนักจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "หาเงินเข้า wallet วันละ1000 ฟรี"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
