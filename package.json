@@ -1,14 +1,14 @@
 {
-    "name": "da7b32c1de432c947b9802b05b083578",
-    "theme": "syntax",
-    "version": "2.0.6474",
-    "description": "เกมยิงปลา เครดิตฟรี 18 บาท【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "เกมยิงปลา เครดิตฟรี 18 บาท"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมยิงปลา เครดิตฟรี 18 บาท【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6474",
+  "description": "เกมยิงปลา เครดิตฟรี 18 บาท【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "เกมยิงปลา เครดิตฟรี 18 บาท"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
