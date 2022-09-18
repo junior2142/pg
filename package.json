@@ -1,14 +1,14 @@
 {
-    "name": "17a383b78ee18c7a93df7bb814a449dc",
-    "theme": "syntax",
-    "version": "2.0.6396",
-    "description": "รีวิวเกมยิงปลา【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "รีวิวเกมยิงปลา"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "รีวิวเกมยิงปลา【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6396",
+  "description": "รีวิวเกมยิงปลา【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกกระจาย พร้อมจ่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "รีวิวเกมยิงปลา"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
