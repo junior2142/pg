@@ -1,12 +1,14 @@
 {
-  "name": "เกม สลา ฟ เล่นกับเพื่อน【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.6289",
-  "description": "เกม สลา ฟ เล่นกับเพื่อน【pg slot 1 บาท】 ✔ แจ็กพอตแตกบ่อย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-  "keywords": [],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "2c45a025bb23c45fc847175668b4301f",
+    "theme": "syntax",
+    "version": "2.0.6289",
+    "description": "สลาฟออนไลน์ meemodel【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+    "keywords": [
+        "สลาฟออนไลน์ meemodel"
+    ],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
