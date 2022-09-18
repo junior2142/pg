@@ -1,15 +1,15 @@
 {
-    "name": "444d5fbe5a377299dbb50936a7f5cc17",
-    "theme": "syntax",
-    "version": "2.0.6894",
-    "description": "เว็บสล็อตตรง100%【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "เว็บสล็อตตรง100 วอเลท",
-        "เว็บสล็อตตรง100 แตกง่าย"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เว็บสล็อตตรง100%【คูปอง 1ufabet】",
+  "theme": "syntax",
+  "version": "2.0.6894",
+  "description": "เว็บสล็อตตรง100%【คูปอง 1ufabet】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "เว็บสล็อตตรง100 วอเลท",
+    "เว็บสล็อตตรง100 แตกง่าย"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
