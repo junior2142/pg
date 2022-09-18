@@ -1,15 +1,15 @@
 {
-    "name": "0c80e7b49934dc39f537b64b54156ca4",
-    "theme": "syntax",
-    "version": "2.0.7877",
-    "description": "บาคาร่า 7 club【คูปอง แจกเครดิตฟรี】 ✔ เกมพนันออนไลน์ เว็บตรง ไม่ผ่านตัวแทน บริการดีที่สุด ฝากเดิมพันแบบไม่มีขั้นต่ำ",
-    "keywords": [
-        "บาคาร่า 1688 clubs",
-        "club special บา ค่า ร่า"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "บาคาร่า 7 club【คูปอง แจกเครดิตฟรี】",
+  "theme": "syntax",
+  "version": "2.0.7877",
+  "description": "บาคาร่า 7 club【คูปอง แจกเครดิตฟรี】 ✔ เกมพนันออนไลน์ เว็บตรง ไม่ผ่านตัวแทน บริการดีที่สุด ฝากเดิมพันแบบไม่มีขั้นต่ำ",
+  "keywords": [
+    "บาคาร่า 1688 clubs",
+    "club special บา ค่า ร่า"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
