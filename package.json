@@ -1,14 +1,14 @@
 {
-    "name": "161c8a35a5fc1bd5bfe8ca79b09f16c8",
-    "theme": "syntax",
-    "version": "2.0.6576",
-    "description": "เกมยิงปลา 168【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
-    "keywords": [
-        "เกมยิงปลา 168"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมยิงปลา 168【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6576",
+  "description": "เกมยิงปลา 168【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกบ่อย จ่ายง่ายจ่ายไม่อั้นและมั่นคง ",
+  "keywords": [
+    "เกมยิงปลา 168"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
