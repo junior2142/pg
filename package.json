@@ -1,12 +1,12 @@
 {
-    "name": "7aa4c38345d1bfdda2e7ecabb7ed1590",
-    "theme": "syntax",
-    "version": "2.0.7717",
-    "description": "ไก่ชนออนไลน์ ฮั่วเซ่งเฮง ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
-    "keywords": [],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "ไก่ชนออนไลน์ ฮั่วเซ่งเฮง",
+  "theme": "syntax",
+  "version": "2.0.7717",
+  "description": "ไก่ชนออนไลน์ ฮั่วเซ่งเฮง ✔ แจ็กพอตแตกบ่อย เท่าไหร่ก็จ่ายไม่มีกั๊ก ",
+  "keywords": [],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
