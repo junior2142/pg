@@ -1,14 +1,14 @@
 {
-    "name": "26fb745c58b30df087e5361c1494414a",
-    "theme": "syntax",
-    "version": "2.0.7405",
-    "description": "สล็อตเว็บตรง เว็บตรง100 pg ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
-    "keywords": [
-        "เว็บตรง100 pg"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง เว็บตรง100 pg",
+  "theme": "syntax",
+  "version": "2.0.7405",
+  "description": "สล็อตเว็บตรง เว็บตรง100 pg ✔ รางวัลใหญ่แตกกระจาย จ่ายหนักจัดเต็มไม่มีกั๊ก ",
+  "keywords": [
+    "เว็บตรง100 pg"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
