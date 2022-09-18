@@ -1,14 +1,14 @@
 {
-    "name": "d833fb2574d59a5a2309cb07d7f9d089",
-    "theme": "syntax",
-    "version": "2.0.6776",
-    "description": "เกมที่เล่นแล้วได้เงินจริง pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
-    "keywords": [
-        "เกมที่เล่นแล้วได้เงินจริง pantip"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "เกมที่เล่นแล้วได้เงินจริง pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】",
+  "theme": "syntax",
+  "version": "2.0.6776",
+  "description": "เกมที่เล่นแล้วได้เงินจริง pantip【เว็บ สล็อต ออนไลน์ อันดับ 1】 ✔ โบนัสแตกกระจาย จ่ายแบบจัดเต็มและปลอดภัย ",
+  "keywords": [
+    "เกมที่เล่นแล้วได้เงินจริง pantip"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
