@@ -1,15 +1,15 @@
 {
-    "name": "2d48ada2dca3dfbea2a9a3bdadf90a73",
-    "theme": "syntax",
-    "version": "2.0.7661",
-    "description": "สล็อตเว็บตรง สล็อต777ฟรีเครดิต50 ✔ โบนัสแตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
-    "keywords": [
-        "สล็อต777ฟรีเครดิต50",
-        "สล็อต777ฟรีเครดิต5000"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "สล็อตเว็บตรง สล็อต777ฟรีเครดิต50",
+  "theme": "syntax",
+  "version": "2.0.7661",
+  "description": "สล็อตเว็บตรง สล็อต777ฟรีเครดิต50 ✔ โบนัสแตกบ่อย จ่ายง่ายรวดเร็วปลอดภัย ",
+  "keywords": [
+    "สล็อต777ฟรีเครดิต50",
+    "สล็อต777ฟรีเครดิต5000"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
