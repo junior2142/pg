@@ -1,14 +1,14 @@
 {
-    "name": "2cd05bebd86ea09ae064486896dc6bc0",
-    "theme": "syntax",
-    "version": "2.0.6208",
-    "description": "black jack วิธีเล่น【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
-    "keywords": [
-        "black jack วิธีเล่น"
-    ],
-    "repository": "https://github.com/morgra168168/pg",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "name": "black jack วิธีเล่น【pg slot 1 บาท】",
+  "theme": "syntax",
+  "version": "2.0.6208",
+  "description": "black jack วิธีเล่น【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+  "keywords": [
+    "black jack วิธีเล่น"
+  ],
+  "repository": "https://github.com/morgra168168/pg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
