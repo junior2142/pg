@@ -1,23 +1,12 @@
 {
-  "name": "PayPal【pg slot 1 บาท】",
-  "theme": "syntax",
-  "version": "2.0.6763",
-  "description": "PayPal【pg slot 1 บาท】 ✔ รางวัลบิ๊กวินแตกกระจาย จ่ายแบบไม่มีกั๊กแบบจัดเต็ม ",
-  "keywords": [
-    "paypal",
-    "paypal สมัคร",
-    "paypal สมัครยังไง",
-    "paypal ไทย",
-    "paypal thailand",
-    "paypal login",
-    "paypal ไม่มีไทย",
-    "paypal อ่านว่า",
-    "paypal ไม่มีประเทศไทย",
-    "paypal โอนเข้าธนาคาร"
-  ],
-  "repository": "https://github.com/morgra168168/pg",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "name": "d2e5cc7b752447d219d96095b2049da9",
+    "theme": "syntax",
+    "version": "2.0.6763",
+    "description": "หาเงินเข้า paypal ios【pg slot 1 บาท】 ✔ รางวัลใหญ่แตกกระจาย จ่ายไม่อั้นปลอดภัยและมั่นคง ",
+    "keywords": [],
+    "repository": "https://github.com/morgra168168/pg",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
 }
